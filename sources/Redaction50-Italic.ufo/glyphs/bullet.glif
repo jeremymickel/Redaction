@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="300"/>
+  <unicode hex="2022"/>
+  <guideline x="159.4012499850935" y="285" angle="111.0" identifier="uEsM9RX18I"/>
+  <guideline x="159.4012499850935" y="285" angle="0" identifier="QyjMQ2TamV"/>
+  <guideline x="297.3697982124536" y="634" angle="111.0" identifier="A0zMfQRXYP"/>
+  <guideline x="297.3697982124536" y="634" angle="0" identifier="s9YzXKl7lu"/>
+  <outline>
+    <contour>
+      <point x="150" y="450" type="line"/>
+      <point x="150" y="350" type="line"/>
+      <point x="100" y="350" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="250" y="250" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="300" y="350" type="line"/>
+      <point x="300" y="450" type="line"/>
+    </contour>
+  </outline>
+</glyph>

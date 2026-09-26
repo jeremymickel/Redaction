@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="735"/>
+  <unicode hex="004F"/>
+  <guideline x="376" y="350" angle="90.0" identifier="UtOTejCca0"/>
+  <guideline x="376" y="350" angle="0" identifier="uXSUqdu7Cx"/>
+  <guideline x="376" y="350" angle="90.0" identifier="I1ZECuw2i9"/>
+  <guideline x="376" y="350" angle="0" identifier="LKkYXnEaM3"/>
+  <anchor x="490" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="490" y="35" type="line"/>
+      <point x="525" y="35" type="line"/>
+      <point x="525" y="70" type="line"/>
+      <point x="595" y="70" type="line"/>
+      <point x="595" y="105" type="line"/>
+      <point x="630" y="105" type="line"/>
+      <point x="630" y="140" type="line"/>
+      <point x="665" y="140" type="line"/>
+      <point x="665" y="210" type="line"/>
+      <point x="700" y="210" type="line"/>
+      <point x="700" y="280" type="line"/>
+      <point x="735" y="280" type="line"/>
+      <point x="735" y="595" type="line"/>
+      <point x="700" y="595" type="line"/>
+      <point x="700" y="630" type="line"/>
+      <point x="665" y="630" type="line"/>
+      <point x="665" y="665" type="line"/>
+      <point x="595" y="665" type="line"/>
+      <point x="595" y="700" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="350" y="665" type="line"/>
+      <point x="280" y="665" type="line"/>
+      <point x="280" y="630" type="line"/>
+      <point x="245" y="630" type="line"/>
+      <point x="245" y="595" type="line"/>
+      <point x="210" y="595" type="line"/>
+      <point x="210" y="560" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="175" y="525" type="line"/>
+      <point x="140" y="525" type="line"/>
+      <point x="140" y="455" type="line"/>
+      <point x="105" y="455" type="line"/>
+      <point x="105" y="385" type="line"/>
+      <point x="70" y="385" type="line"/>
+      <point x="70" y="175" type="line"/>
+      <point x="105" y="175" type="line"/>
+      <point x="105" y="105" type="line"/>
+      <point x="140" y="105" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="175" y="70" type="line"/>
+      <point x="175" y="35" type="line"/>
+      <point x="210" y="35" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="35" type="line"/>
+      <point x="245" y="70" type="line"/>
+      <point x="210" y="70" type="line"/>
+      <point x="210" y="140" type="line"/>
+      <point x="175" y="140" type="line"/>
+      <point x="175" y="350" type="line"/>
+      <point x="210" y="350" type="line"/>
+      <point x="210" y="455" type="line"/>
+      <point x="245" y="455" type="line"/>
+      <point x="245" y="525" type="line"/>
+      <point x="280" y="525" type="line"/>
+      <point x="280" y="560" type="line"/>
+      <point x="315" y="560" type="line"/>
+      <point x="315" y="595" type="line"/>
+      <point x="350" y="595" type="line"/>
+      <point x="350" y="630" type="line"/>
+      <point x="385" y="630" type="line"/>
+      <point x="385" y="665" type="line"/>
+      <point x="560" y="665" type="line"/>
+      <point x="560" y="630" type="line"/>
+      <point x="595" y="630" type="line"/>
+      <point x="595" y="595" type="line"/>
+      <point x="630" y="595" type="line"/>
+      <point x="630" y="280" type="line"/>
+      <point x="595" y="280" type="line"/>
+      <point x="595" y="210" type="line"/>
+      <point x="560" y="210" type="line"/>
+      <point x="560" y="175" type="line"/>
+      <point x="525" y="175" type="line"/>
+      <point x="525" y="105" type="line"/>
+      <point x="490" y="105" type="line"/>
+      <point x="490" y="70" type="line"/>
+      <point x="420" y="70" type="line"/>
+      <point x="420" y="35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.UtOTejCca0</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.uXSUqdu7Cx</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="250"/>
+  <unicode hex="003B"/>
+  <guideline x="140" y="285" angle="90.0" identifier="sERWWnIah2"/>
+  <guideline x="140" y="285" angle="0" identifier="dxTioxhQ7E"/>
+  <guideline x="144" y="634" angle="90.0" identifier="5o4L8wMkRs"/>
+  <guideline x="144" y="634" angle="0" identifier="hlzoP2IZz6"/>
+  <outline>
+    <contour>
+      <point x="150" y="500" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="100" y="350" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="250" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-50" type="line"/>
+      <point x="100" y="-50" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="-50" type="line"/>
+      <point x="0" y="-50" type="line"/>
+      <point x="0" y="-100" type="line"/>
+      <point x="50" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="-100" y="-150" type="line"/>
+      <point x="-50" y="-150" type="line"/>
+      <point x="-50" y="-100" type="line"/>
+      <point x="-100" y="-100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.5o4L8wMkRs</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dxTioxhQ7E</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.hlzoP2IZz6</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.sERWWnIah2</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.9176,0,1</string>
+    </dict>
+  </lib>
+</glyph>

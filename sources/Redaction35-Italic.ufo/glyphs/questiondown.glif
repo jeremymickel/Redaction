@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="420"/>
+  <unicode hex="00BF"/>
+  <guideline x="139" y="461" angle="90.0" identifier="TXkBVFb2s6"/>
+  <guideline x="352" y="286" angle="0" identifier="t76EDIQJcM"/>
+  <guideline x="144" y="634" angle="90.0" identifier="OtsaCdS0q2"/>
+  <guideline x="144" y="634" angle="0" identifier="SOavraffO3"/>
+  <guideline x="139" y="461" angle="90.0" identifier="Z4kFSMDRtO"/>
+  <guideline x="352" y="286" angle="0" identifier="uTycFVMDgn"/>
+  <guideline x="144" y="634" angle="90.0" identifier="1uof24TOxR"/>
+  <guideline x="144" y="634" angle="0" identifier="b1MqCPT07N"/>
+  <outline>
+    <contour>
+      <point x="420" y="595" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="315" y="700" type="line"/>
+      <point x="315" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="35" type="line"/>
+      <point x="315" y="35" type="line"/>
+      <point x="315" y="70" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="350" y="105" type="line"/>
+      <point x="385" y="105" type="line"/>
+      <point x="385" y="140" type="line"/>
+      <point x="350" y="140" type="line"/>
+      <point x="350" y="175" type="line"/>
+      <point x="315" y="175" type="line"/>
+      <point x="315" y="140" type="line"/>
+      <point x="280" y="140" type="line"/>
+      <point x="280" y="70" type="line"/>
+      <point x="245" y="70" type="line"/>
+      <point x="245" y="35" type="line"/>
+      <point x="105" y="35" type="line"/>
+      <point x="105" y="70" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="70" y="210" type="line"/>
+      <point x="105" y="210" type="line"/>
+      <point x="105" y="245" type="line"/>
+      <point x="140" y="245" type="line"/>
+      <point x="140" y="280" type="line"/>
+      <point x="210" y="280" type="line"/>
+      <point x="210" y="315" type="line"/>
+      <point x="280" y="315" type="line"/>
+      <point x="280" y="350" type="line"/>
+      <point x="315" y="350" type="line"/>
+      <point x="315" y="385" type="line"/>
+      <point x="350" y="385" type="line"/>
+      <point x="350" y="490" type="line"/>
+      <point x="315" y="490" type="line"/>
+      <point x="315" y="455" type="line"/>
+      <point x="280" y="455" type="line"/>
+      <point x="280" y="385" type="line"/>
+      <point x="210" y="385" type="line"/>
+      <point x="210" y="350" type="line"/>
+      <point x="140" y="350" type="line"/>
+      <point x="140" y="315" type="line"/>
+      <point x="70" y="315" type="line"/>
+      <point x="70" y="280" type="line"/>
+      <point x="35" y="280" type="line"/>
+      <point x="35" y="245" type="line"/>
+      <point x="0" y="245" type="line"/>
+      <point x="0" y="175" type="line"/>
+      <point x="-35" y="175" type="line"/>
+      <point x="-35" y="105" type="line"/>
+      <point x="0" y="105" type="line"/>
+      <point x="0" y="35" type="line"/>
+      <point x="35" y="35" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

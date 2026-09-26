@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="500"/>
+  <unicode hex="006F"/>
+  <anchor x="200.0" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="100" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="400" y="400" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="400" y="400" type="line"/>
+      <point x="400" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.guideline.magnetic.QzQO6RMa2I</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xFNeFFclUq</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

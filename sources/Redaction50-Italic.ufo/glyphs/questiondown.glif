@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="450"/>
+  <unicode hex="00BF"/>
+  <guideline x="139" y="461" angle="90.0" identifier="TXkBVFb2s6"/>
+  <guideline x="352" y="286" angle="0" identifier="t76EDIQJcM"/>
+  <guideline x="144" y="634" angle="90.0" identifier="OtsaCdS0q2"/>
+  <guideline x="144" y="634" angle="0" identifier="SOavraffO3"/>
+  <guideline x="139" y="461" angle="90.0" identifier="Z4kFSMDRtO"/>
+  <guideline x="352" y="286" angle="0" identifier="uTycFVMDgn"/>
+  <guideline x="144" y="634" angle="90.0" identifier="1uof24TOxR"/>
+  <guideline x="144" y="634" angle="0" identifier="b1MqCPT07N"/>
+  <outline>
+    <contour>
+      <point x="450" y="700" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="350" y="650" type="line"/>
+      <point x="300" y="650" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="450" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="500" type="line"/>
+      <point x="300" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="150" y="350" type="line"/>
+      <point x="150" y="300" type="line"/>
+      <point x="50" y="300" type="line"/>
+      <point x="50" y="200" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="150" y="200" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="200" y="250" type="line"/>
+      <point x="200" y="300" type="line"/>
+      <point x="250" y="300" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="350" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="50" type="line"/>
+      <point x="350" y="100" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="400" y="150" type="line"/>
+      <point x="300" y="150" type="line"/>
+      <point x="300" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="540"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="160" y="600" type="line"/>
+      <point x="480" y="600" type="line"/>
+      <point x="480" y="760" type="line"/>
+      <point x="440" y="760" type="line"/>
+      <point x="440" y="720" type="line"/>
+      <point x="420" y="720" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="620" type="line"/>
+      <point x="80" y="620" type="line"/>
+      <point x="80" y="400" type="line"/>
+      <point x="60" y="400" type="line"/>
+      <point x="60" y="340" type="line"/>
+      <point x="200" y="340" type="line"/>
+      <point x="200" y="360" type="line"/>
+      <point x="220" y="360" type="line"/>
+      <point x="220" y="340" type="line"/>
+      <point x="300" y="340" type="line"/>
+      <point x="300" y="320" type="line"/>
+      <point x="340" y="320" type="line"/>
+      <point x="340" y="280" type="line"/>
+      <point x="360" y="280" type="line"/>
+      <point x="360" y="240" type="line"/>
+      <point x="380" y="240" type="line"/>
+      <point x="380" y="160" type="line"/>
+      <point x="360" y="160" type="line"/>
+      <point x="360" y="100" type="line"/>
+      <point x="340" y="100" type="line"/>
+      <point x="340" y="80" type="line"/>
+      <point x="320" y="80" type="line"/>
+      <point x="320" y="60" type="line"/>
+      <point x="300" y="60" type="line"/>
+      <point x="300" y="40" type="line"/>
+      <point x="180" y="40" type="line"/>
+      <point x="180" y="60" type="line"/>
+      <point x="140" y="60" type="line"/>
+      <point x="140" y="100" type="line"/>
+      <point x="120" y="100" type="line"/>
+      <point x="120" y="140" type="line"/>
+      <point x="160" y="140" type="line"/>
+      <point x="160" y="180" type="line"/>
+      <point x="140" y="180" type="line"/>
+      <point x="140" y="220" type="line"/>
+      <point x="40" y="220" type="line"/>
+      <point x="40" y="180" type="line"/>
+      <point x="20" y="180" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="40" y="120" type="line"/>
+      <point x="40" y="80" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="100" y="40" type="line"/>
+      <point x="100" y="20" type="line"/>
+      <point x="140" y="20" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="-20" type="line"/>
+      <point x="280" y="-20" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="20" type="line"/>
+      <point x="400" y="20" type="line"/>
+      <point x="400" y="40" type="line"/>
+      <point x="420" y="40" type="line"/>
+      <point x="420" y="60" type="line"/>
+      <point x="440" y="60" type="line"/>
+      <point x="440" y="80" type="line"/>
+      <point x="460" y="80" type="line"/>
+      <point x="460" y="120" type="line"/>
+      <point x="480" y="120" type="line"/>
+      <point x="480" y="160" type="line"/>
+      <point x="500" y="160" type="line"/>
+      <point x="500" y="320" type="line"/>
+      <point x="480" y="320" type="line"/>
+      <point x="480" y="360" type="line"/>
+      <point x="460" y="360" type="line"/>
+      <point x="460" y="380" type="line"/>
+      <point x="440" y="380" type="line"/>
+      <point x="440" y="400" type="line"/>
+      <point x="420" y="400" type="line"/>
+      <point x="420" y="420" type="line"/>
+      <point x="400" y="420" type="line"/>
+      <point x="400" y="440" type="line"/>
+      <point x="340" y="440" type="line"/>
+      <point x="340" y="460" type="line"/>
+      <point x="140" y="460" type="line"/>
+      <point x="140" y="440" type="line"/>
+      <point x="120" y="440" type="line"/>
+      <point x="120" y="560" type="line"/>
+      <point x="140" y="560" type="line"/>
+      <point x="140" y="640" type="line"/>
+      <point x="160" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

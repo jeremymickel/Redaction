@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="560"/>
+  <unicode hex="00A8"/>
+  <guideline x="104" y="669" angle="90" identifier="zk7nSSZ5WY"/>
+  <guideline x="396" y="657" angle="90" identifier="MKNGttsWxP"/>
+  <anchor x="280.0" y="490" name="_top"/>
+  <outline>
+    <component base="dotaccent" xOffset="-70"/>
+    <component base="dotaccent" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,1,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

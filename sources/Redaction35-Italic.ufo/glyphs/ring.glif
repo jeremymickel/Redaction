@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="490"/>
+  <unicode hex="02DA"/>
+  <guideline x="348" y="490" angle="69.0" identifier="vsiLSCtz5X"/>
+  <anchor x="350.0" y="490.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="420" y="560" type="line"/>
+      <point x="455" y="560" type="line"/>
+      <point x="455" y="700" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="420" y="735" type="line"/>
+      <point x="350" y="735" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="280" y="700" type="line"/>
+      <point x="280" y="560" type="line"/>
+      <point x="315" y="560" type="line"/>
+      <point x="315" y="525" type="line"/>
+      <point x="420" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="560" type="line"/>
+      <point x="315" y="665" type="line"/>
+      <point x="350" y="665" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="385" y="700" type="line"/>
+      <point x="385" y="665" type="line"/>
+      <point x="420" y="665" type="line"/>
+      <point x="420" y="595" type="line"/>
+      <point x="385" y="595" type="line"/>
+      <point x="385" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

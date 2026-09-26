@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="250"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="50" y="500" type="line"/>
+      <point x="50" y="350" type="line"/>
+      <point x="200" y="350" type="line"/>
+      <point x="200" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="-100" type="line"/>
+      <point x="150" y="-100" type="line"/>
+      <point x="150" y="-50" type="line"/>
+      <point x="200" y="-50" type="line"/>
+      <point x="200" y="100" type="line"/>
+      <point x="150" y="100" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="50" y="150" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="-50" type="line"/>
+      <point x="100" y="-50" type="line"/>
+      <point x="100" y="-100" type="line"/>
+      <point x="50" y="-100" type="line"/>
+      <point x="50" y="-150" type="line"/>
+      <point x="100" y="-150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.5o4L8wMkRs</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dxTioxhQ7E</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.hlzoP2IZz6</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.sERWWnIah2</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

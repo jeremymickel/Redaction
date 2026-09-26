@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="595"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="245" y="735" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="175" y="700" type="line"/>
+      <point x="175" y="665" type="line"/>
+      <point x="140" y="665" type="line"/>
+      <point x="140" y="630" type="line"/>
+      <point x="105" y="630" type="line"/>
+      <point x="105" y="525" type="line"/>
+      <point x="70" y="525" type="line"/>
+      <point x="70" y="455" type="line"/>
+      <point x="0" y="455" type="line"/>
+      <point x="0" y="420" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="70" y="35" type="line"/>
+      <point x="0" y="35" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="35" type="line"/>
+      <point x="175" y="35" type="line"/>
+      <point x="175" y="420" type="line"/>
+      <point x="315" y="420" type="line"/>
+      <point x="315" y="455" type="line"/>
+      <point x="175" y="455" type="line"/>
+      <point x="175" y="630" type="line"/>
+      <point x="210" y="630" type="line"/>
+      <point x="210" y="665" type="line"/>
+      <point x="245" y="665" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="280" y="700" type="line"/>
+      <point x="280" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="595" type="line"/>
+      <point x="385" y="595" type="line"/>
+      <point x="385" y="630" type="line"/>
+      <point x="420" y="630" type="line"/>
+      <point x="420" y="595" type="line"/>
+      <point x="525" y="595" type="line"/>
+      <point x="525" y="700" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="420" y="665" type="line"/>
+      <point x="385" y="665" type="line"/>
+      <point x="385" y="700" type="line"/>
+      <point x="315" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="35" type="line"/>
+      <point x="525" y="35" type="line"/>
+      <point x="525" y="490" type="line"/>
+      <point x="490" y="490" type="line"/>
+      <point x="490" y="455" type="line"/>
+      <point x="350" y="455" type="line"/>
+      <point x="350" y="420" type="line"/>
+      <point x="385" y="420" type="line"/>
+      <point x="385" y="385" type="line"/>
+      <point x="420" y="385" type="line"/>
+      <point x="420" y="70" type="line"/>
+      <point x="385" y="70" type="line"/>
+      <point x="385" y="35" type="line"/>
+      <point x="315" y="35" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.37329,0.8</string>
+    </dict>
+  </lib>
+</glyph>

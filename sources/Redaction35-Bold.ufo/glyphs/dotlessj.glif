@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="315"/>
+  <unicode hex="0237"/>
+  <note>
+Version created Thu Jan  3 14:08:43 2019
+</note>
+  <anchor x="175" y="490" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="-210" type="line"/>
+      <point x="175" y="-210" type="line"/>
+      <point x="175" y="-175" type="line"/>
+      <point x="210" y="-175" type="line"/>
+      <point x="210" y="-105" type="line"/>
+      <point x="245" y="-105" type="line"/>
+      <point x="245" y="490" type="line"/>
+      <point x="105" y="490" type="line"/>
+      <point x="105" y="455" type="line"/>
+      <point x="35" y="455" type="line"/>
+      <point x="35" y="420" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="70" y="385" type="line"/>
+      <point x="105" y="385" type="line"/>
+      <point x="105" y="-140" type="line"/>
+      <point x="70" y="-140" type="line"/>
+      <point x="70" y="-175" type="line"/>
+      <point x="35" y="-175" type="line"/>
+      <point x="35" y="-210" type="line"/>
+      <point x="0" y="-210" type="line"/>
+      <point x="0" y="-70" type="line"/>
+      <point x="-70" y="-70" type="line"/>
+      <point x="-70" y="-105" type="line"/>
+      <point x="-105" y="-105" type="line"/>
+      <point x="-105" y="-210" type="line"/>
+      <point x="-35" y="-210" type="line"/>
+      <point x="-35" y="-245" type="line"/>
+      <point x="105" y="-245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ovZzWXy4fA</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.v7bQAHHGnF</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

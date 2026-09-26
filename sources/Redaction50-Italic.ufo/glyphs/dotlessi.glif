@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="300"/>
+  <unicode hex="0131"/>
+  <note>
+Version created Thu Jan  3 14:08:26 2019
+</note>
+  <guideline x="154.72243494126025" y="285" angle="106.0" identifier="C0uf7o5x9l"/>
+  <guideline x="154.72243494126025" y="285" angle="0" identifier="9tR2GWBGUR"/>
+  <guideline x="258.7965745710842" y="634" angle="106.0" identifier="RTJvehtSGE"/>
+  <guideline x="258.7965745710842" y="634" angle="0" identifier="e7RsL3G9s1"/>
+  <anchor x="123.0" y="0" name="bottom"/>
+  <anchor x="231.0" y="470.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="300" y="500" type="line"/>
+      <point x="250" y="500" type="line"/>
+      <point x="250" y="450" type="line"/>
+      <point x="150" y="450" type="line"/>
+      <point x="150" y="300" type="line"/>
+      <point x="100" y="300" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="50" y="200" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="150" y="100" type="line"/>
+      <point x="150" y="200" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="200" y="350" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="250" y="450" type="line"/>
+      <point x="300" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="100" type="line"/>
+      <point x="200" y="100" type="line"/>
+      <point x="200" y="50" type="line"/>
+      <point x="250" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

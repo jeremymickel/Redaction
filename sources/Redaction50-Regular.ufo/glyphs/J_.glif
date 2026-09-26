@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="550"/>
+  <unicode hex="004A"/>
+  <anchor x="400.0" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="350" y="50" type="line"/>
+      <point x="400" y="50" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="450" y="100" type="line"/>
+      <point x="450" y="650" type="line"/>
+      <point x="550" y="650" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="350" y="650" type="line"/>
+      <point x="350" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+      <point x="300" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Rn4yS4R7lO</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.vWhlEtWpUs</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

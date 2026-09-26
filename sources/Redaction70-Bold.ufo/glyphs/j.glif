@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="280"/>
+  <unicode hex="006A"/>
+  <note>
+Version created Thu Jan  3 14:08:43 2019
+</note>
+  <outline>
+    <contour>
+      <point x="70" y="560" type="line"/>
+      <point x="210" y="560" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="420" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="70" y="-210" type="line"/>
+      <point x="210" y="-210" type="line"/>
+      <point x="210" y="490" type="line"/>
+      <point x="0" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="-140" y="-70" type="line"/>
+      <point x="-140" y="-210" type="line"/>
+      <point x="0" y="-210" type="line"/>
+      <point x="0" y="-70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ovZzWXy4fA</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.v7bQAHHGnF</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

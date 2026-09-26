@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="2">
+  <advance width="800"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="500" y="200" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="-200" type="line"/>
+      <point x="800" y="-200" type="line"/>
+      <point x="800" y="-100" type="line"/>
+      <point x="700" y="-100" type="line"/>
+      <point x="700" y="200" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="600" y="500" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="500" y="700" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="300" y="500" type="line"/>
+      <point x="400" y="500" type="line"/>
+      <point x="400" y="300" type="line"/>
+      <point x="300" y="300" type="line"/>
+      <point x="300" y="400" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.75</string>
+    </dict>
+  </lib>
+</glyph>

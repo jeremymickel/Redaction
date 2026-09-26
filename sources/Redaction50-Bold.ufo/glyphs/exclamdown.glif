@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="250"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="200" y="550" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="50" y="250" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="300" type="line"/>
+      <point x="150" y="300" type="line"/>
+      <point x="150" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9SfQx7Tvwl</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.AV9vYJv7TQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cJASVaY9x2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cWCcIVSUiP</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

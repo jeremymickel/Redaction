@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="490"/>
+  <unicode hex="02DA"/>
+  <anchor x="245.0" y="490" name="_top"/>
+  <outline>
+    <contour>
+      <point x="315" y="595" type="line"/>
+      <point x="350" y="595" type="line"/>
+      <point x="350" y="735" type="line"/>
+      <point x="280" y="735" type="line"/>
+      <point x="280" y="770" type="line"/>
+      <point x="210" y="770" type="line"/>
+      <point x="210" y="735" type="line"/>
+      <point x="140" y="735" type="line"/>
+      <point x="140" y="595" type="line"/>
+      <point x="175" y="595" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="315" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="595" type="line"/>
+      <point x="210" y="630" type="line"/>
+      <point x="175" y="630" type="line"/>
+      <point x="175" y="665" type="line"/>
+      <point x="210" y="665" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="280" y="700" type="line"/>
+      <point x="280" y="665" type="line"/>
+      <point x="315" y="665" type="line"/>
+      <point x="315" y="630" type="line"/>
+      <point x="280" y="630" type="line"/>
+      <point x="280" y="595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

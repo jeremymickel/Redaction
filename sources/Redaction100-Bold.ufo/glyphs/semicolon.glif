@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="200"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="0" y="500" type="line"/>
+      <point x="0" y="400" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="200" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-100" type="line"/>
+      <point x="100" y="-100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.5o4L8wMkRs</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dxTioxhQ7E</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.hlzoP2IZz6</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.sERWWnIah2</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

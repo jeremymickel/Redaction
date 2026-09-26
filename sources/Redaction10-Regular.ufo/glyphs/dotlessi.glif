@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="290"/>
+  <unicode hex="0131"/>
+  <note>
+Version created Thu Jan  3 14:08:26 2019
+</note>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="146.0" y="470.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="440" type="line"/>
+      <point x="20" y="430" type="line"/>
+      <point x="40" y="430" type="line"/>
+      <point x="40" y="420" type="line"/>
+      <point x="60" y="420" type="line"/>
+      <point x="60" y="410" type="line"/>
+      <point x="80" y="410" type="line"/>
+      <point x="80" y="400" type="line"/>
+      <point x="90" y="400" type="line"/>
+      <point x="90" y="390" type="line"/>
+      <point x="100" y="390" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="50" type="line"/>
+      <point x="80" y="50" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="70" y="40" type="line"/>
+      <point x="70" y="30" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="30" type="line"/>
+      <point x="220" y="30" type="line"/>
+      <point x="220" y="40" type="line"/>
+      <point x="210" y="40" type="line"/>
+      <point x="210" y="50" type="line"/>
+      <point x="200" y="50" type="line"/>
+      <point x="200" y="70" type="line"/>
+      <point x="190" y="70" type="line"/>
+      <point x="190" y="480" type="line"/>
+      <point x="170" y="480" type="line"/>
+      <point x="170" y="470" type="line"/>
+      <point x="130" y="470" type="line"/>
+      <point x="130" y="460" type="line"/>
+      <point x="90" y="460" type="line"/>
+      <point x="90" y="450" type="line"/>
+      <point x="60" y="450" type="line"/>
+      <point x="60" y="440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9tR2GWBGUR</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.C0uf7o5x9l</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.RTJvehtSGE</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.e7RsL3G9s1</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

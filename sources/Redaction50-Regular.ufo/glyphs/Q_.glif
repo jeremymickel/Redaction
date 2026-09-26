@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="750"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="200" y="100" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="150" y="200" type="line"/>
+      <point x="150" y="550" type="line"/>
+      <point x="200" y="550" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="500" y="650" type="line"/>
+      <point x="500" y="550" type="line"/>
+      <point x="550" y="550" type="line"/>
+      <point x="550" y="450" type="line"/>
+      <point x="600" y="450" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="550" y="200" type="line"/>
+      <point x="550" y="100" type="line"/>
+      <point x="600" y="100" type="line"/>
+      <point x="600" y="150" type="line"/>
+      <point x="650" y="150" type="line"/>
+      <point x="650" y="200" type="line"/>
+      <point x="700" y="200" type="line"/>
+      <point x="700" y="500" type="line"/>
+      <point x="650" y="500" type="line"/>
+      <point x="650" y="600" type="line"/>
+      <point x="600" y="600" type="line"/>
+      <point x="600" y="650" type="line"/>
+      <point x="550" y="650" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="150" y="650" type="line"/>
+      <point x="150" y="600" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="50" y="500" type="line"/>
+      <point x="50" y="150" type="line"/>
+      <point x="100" y="150" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="150" y="100" type="line"/>
+      <point x="150" y="50" type="line"/>
+      <point x="200" y="50" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="-100" type="line"/>
+      <point x="500" y="-100" type="line"/>
+      <point x="500" y="-150" type="line"/>
+      <point x="650" y="-150" type="line"/>
+      <point x="650" y="-100" type="line"/>
+      <point x="550" y="-100" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="50" type="line"/>
+      <point x="550" y="50" type="line"/>
+      <point x="550" y="100" type="line"/>
+      <point x="450" y="100" type="line"/>
+      <point x="450" y="200" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="300" y="150" type="line"/>
+      <point x="350" y="150" type="line"/>
+      <point x="350" y="100" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="400" y="50" type="line"/>
+      <point x="250" y="50" type="line"/>
+      <point x="250" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.iJ1IhOljSY</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xWXayTPZQZ</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

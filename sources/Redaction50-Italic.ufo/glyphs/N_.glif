@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="750"/>
+  <unicode hex="004E"/>
+  <anchor x="500.0" y="700" name="top"/>
+  <anchor x="300.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="700" y="350" type="line"/>
+      <point x="700" y="450" type="line"/>
+      <point x="750" y="450" type="line"/>
+      <point x="750" y="600" type="line"/>
+      <point x="800" y="600" type="line"/>
+      <point x="800" y="650" type="line"/>
+      <point x="900" y="650" type="line"/>
+      <point x="900" y="700" type="line"/>
+      <point x="650" y="700" type="line"/>
+      <point x="650" y="650" type="line"/>
+      <point x="750" y="650" type="line"/>
+      <point x="750" y="600" type="line"/>
+      <point x="700" y="600" type="line"/>
+      <point x="700" y="450" type="line"/>
+      <point x="650" y="450" type="line"/>
+      <point x="650" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="450" type="line"/>
+      <point x="350" y="450" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="400" y="350" type="line"/>
+      <point x="400" y="250" type="line"/>
+      <point x="450" y="250" type="line"/>
+      <point x="450" y="150" type="line"/>
+      <point x="500" y="150" type="line"/>
+      <point x="500" y="50" type="line"/>
+      <point x="550" y="50" type="line"/>
+      <point x="550" y="100" type="line"/>
+      <point x="600" y="100" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="550" y="200" type="line"/>
+      <point x="550" y="300" type="line"/>
+      <point x="500" y="300" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="450" y="400" type="line"/>
+      <point x="450" y="500" type="line"/>
+      <point x="400" y="500" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="350" y="600" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="200" y="650" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="250" y="550" type="line"/>
+      <point x="300" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="100" y="150" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="200" y="250" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="300" type="line"/>
+      <point x="600" y="300" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="650" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="50" type="line"/>
+      <point x="-50" y="50" type="line"/>
+      <point x="-50" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.guideline.magnetic.OoKq7Qx9Zl</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

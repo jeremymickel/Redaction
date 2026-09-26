@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="700"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="600" y="-100" type="line"/>
+      <point x="500" y="-100" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="0" y="500" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="200" y="100" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="100" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="400" y="-100" type="line"/>
+      <point x="500" y="-100" type="line"/>
+      <point x="500" y="-200" type="line"/>
+      <point x="600" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="600" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="600" y="400" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="500" y="200" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="600" y="100" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="700" y="200" type="line"/>
+      <point x="700" y="500" type="line"/>
+      <point x="600" y="500" type="line"/>
+      <point x="600" y="600" type="line"/>
+      <point x="500" y="600" type="line"/>
+      <point x="500" y="700" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="400" y="600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.iJ1IhOljSY</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xWXayTPZQZ</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

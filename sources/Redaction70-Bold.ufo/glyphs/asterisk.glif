@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="420"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="280" y="700" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="210" y="560" type="line"/>
+      <point x="280" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="630" type="line"/>
+      <point x="350" y="630" type="line"/>
+      <point x="350" y="560" type="line"/>
+      <point x="420" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="630" type="line"/>
+      <point x="70" y="560" type="line"/>
+      <point x="140" y="560" type="line"/>
+      <point x="140" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="560" type="line"/>
+      <point x="280" y="560" type="line"/>
+      <point x="280" y="490" type="line"/>
+      <point x="350" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="560" type="line"/>
+      <point x="140" y="490" type="line"/>
+      <point x="210" y="490" type="line"/>
+      <point x="210" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="490" type="line"/>
+      <point x="210" y="490" type="line"/>
+      <point x="210" y="350" type="line"/>
+      <point x="280" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="490" type="line"/>
+      <point x="350" y="490" type="line"/>
+      <point x="350" y="420" type="line"/>
+      <point x="420" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="490" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="140" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9176,0,1</string>
+    </dict>
+  </lib>
+</glyph>

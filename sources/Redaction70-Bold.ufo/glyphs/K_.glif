@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="840"/>
+  <unicode hex="004B"/>
+  <note>
+Version created Thu Jan  3 11:17:50 2019
+</note>
+  <anchor x="420.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="350" y="70" type="line"/>
+      <point x="280" y="70" type="line"/>
+      <point x="280" y="280" type="line"/>
+      <point x="420" y="280" type="line"/>
+      <point x="420" y="210" type="line"/>
+      <point x="490" y="210" type="line"/>
+      <point x="490" y="70" type="line"/>
+      <point x="560" y="70" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="770" y="0" type="line"/>
+      <point x="770" y="70" type="line"/>
+      <point x="700" y="70" type="line"/>
+      <point x="700" y="210" type="line"/>
+      <point x="630" y="210" type="line"/>
+      <point x="630" y="280" type="line"/>
+      <point x="560" y="280" type="line"/>
+      <point x="560" y="350" type="line"/>
+      <point x="490" y="350" type="line"/>
+      <point x="490" y="490" type="line"/>
+      <point x="560" y="490" type="line"/>
+      <point x="560" y="560" type="line"/>
+      <point x="630" y="560" type="line"/>
+      <point x="630" y="630" type="line"/>
+      <point x="770" y="630" type="line"/>
+      <point x="770" y="700" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="560" y="560" type="line"/>
+      <point x="490" y="560" type="line"/>
+      <point x="490" y="490" type="line"/>
+      <point x="420" y="490" type="line"/>
+      <point x="420" y="420" type="line"/>
+      <point x="350" y="420" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="280" y="350" type="line"/>
+      <point x="280" y="630" type="line"/>
+      <point x="420" y="630" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+      <point x="70" y="630" type="line"/>
+      <point x="140" y="630" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>SBAlt</key>
+      <string>right</string>
+    </dict>
+  </lib>
+</glyph>

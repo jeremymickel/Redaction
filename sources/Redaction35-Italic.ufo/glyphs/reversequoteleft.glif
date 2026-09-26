@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversequoteleft" format="2">
+  <advance width="245"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="315" y="490" type="line"/>
+      <point x="280" y="490" type="line"/>
+      <point x="280" y="525" type="line"/>
+      <point x="245" y="525" type="line"/>
+      <point x="245" y="595" type="line"/>
+      <point x="315" y="595" type="line"/>
+      <point x="315" y="700" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="210" y="525" type="line"/>
+      <point x="245" y="525" type="line"/>
+      <point x="245" y="490" type="line"/>
+      <point x="280" y="490" type="line"/>
+      <point x="280" y="455" type="line"/>
+      <point x="315" y="455" type="line"/>
+    </contour>
+  </outline>
+</glyph>

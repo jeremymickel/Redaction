@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="240"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="60" y="110" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9SfQx7Tvwl</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.AV9vYJv7TQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cJASVaY9x2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cWCcIVSUiP</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="400"/>
+  <unicode hex="0063"/>
+  <guideline x="376" y="350" angle="90.0" identifier="xIyzJBgn9Z"/>
+  <guideline x="463" y="351" angle="0" identifier="lfXvzmUgjq"/>
+  <anchor x="300.0" y="500" name="top"/>
+  <anchor x="200.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="250" y="500" type="line"/>
+      <point x="250" y="450" type="line"/>
+      <point x="150" y="450" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="100" y="350" type="line"/>
+      <point x="50" y="350" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="50" type="line"/>
+      <point x="150" y="50" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="100" y="150" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="150" y="350" type="line"/>
+      <point x="200" y="350" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="450" type="line"/>
+      <point x="300" y="450" type="line"/>
+      <point x="300" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="300" type="line"/>
+      <point x="400" y="300" type="line"/>
+      <point x="400" y="350" type="line"/>
+      <point x="450" y="350" type="line"/>
+      <point x="450" y="400" type="line"/>
+      <point x="400" y="400" type="line"/>
+      <point x="400" y="450" type="line"/>
+      <point x="350" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="50" type="line"/>
+      <point x="350" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+      <point x="300" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.lfXvzmUgjq</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xIyzJBgn9Z</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

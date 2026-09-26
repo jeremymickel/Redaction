@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="240"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="70" y="-120" type="line"/>
+      <point x="100" y="-120" type="line"/>
+      <point x="100" y="-110" type="line"/>
+      <point x="110" y="-110" type="line"/>
+      <point x="110" y="-100" type="line"/>
+      <point x="130" y="-100" type="line"/>
+      <point x="130" y="-90" type="line"/>
+      <point x="140" y="-90" type="line"/>
+      <point x="140" y="-80" type="line"/>
+      <point x="150" y="-80" type="line"/>
+      <point x="150" y="-70" type="line"/>
+      <point x="160" y="-70" type="line"/>
+      <point x="160" y="-60" type="line"/>
+      <point x="170" y="-60" type="line"/>
+      <point x="170" y="-40" type="line"/>
+      <point x="180" y="-40" type="line"/>
+      <point x="180" y="-20" type="line"/>
+      <point x="190" y="-20" type="line"/>
+      <point x="190" y="10" type="line"/>
+      <point x="200" y="10" type="line"/>
+      <point x="200" y="80" type="line"/>
+      <point x="190" y="80" type="line"/>
+      <point x="190" y="110" type="line"/>
+      <point x="180" y="110" type="line"/>
+      <point x="180" y="120" type="line"/>
+      <point x="170" y="120" type="line"/>
+      <point x="170" y="130" type="line"/>
+      <point x="160" y="130" type="line"/>
+      <point x="160" y="140" type="line"/>
+      <point x="140" y="140" type="line"/>
+      <point x="140" y="150" type="line"/>
+      <point x="90" y="150" type="line"/>
+      <point x="90" y="140" type="line"/>
+      <point x="70" y="140" type="line"/>
+      <point x="70" y="130" type="line"/>
+      <point x="60" y="130" type="line"/>
+      <point x="60" y="120" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="40" y="100" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="50" y="40" type="line"/>
+      <point x="50" y="30" type="line"/>
+      <point x="60" y="30" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="70" y="20" type="line"/>
+      <point x="70" y="10" type="line"/>
+      <point x="90" y="10" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="30" type="line"/>
+      <point x="150" y="30" type="line"/>
+      <point x="150" y="-10" type="line"/>
+      <point x="140" y="-10" type="line"/>
+      <point x="140" y="-40" type="line"/>
+      <point x="130" y="-40" type="line"/>
+      <point x="130" y="-60" type="line"/>
+      <point x="120" y="-60" type="line"/>
+      <point x="120" y="-70" type="line"/>
+      <point x="110" y="-70" type="line"/>
+      <point x="110" y="-80" type="line"/>
+      <point x="100" y="-80" type="line"/>
+      <point x="100" y="-90" type="line"/>
+      <point x="90" y="-90" type="line"/>
+      <point x="90" y="-100" type="line"/>
+      <point x="80" y="-100" type="line"/>
+      <point x="80" y="-110" type="line"/>
+      <point x="70" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="-120" type="line"/>
+      <point x="50" y="-120" type="line"/>
+      <point x="50" y="-130" type="line"/>
+      <point x="70" y="-130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9176,0,1</string>
+    </dict>
+  </lib>
+</glyph>

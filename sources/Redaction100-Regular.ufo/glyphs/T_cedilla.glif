@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="700"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="200" y="-200" type="line"/>
+      <point x="400" y="-200" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="300" y="-100" type="line"/>
+      <point x="200" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="600" type="line"/>
+      <point x="600" y="600" type="line"/>
+      <point x="600" y="500" type="line"/>
+      <point x="700" y="500" type="line"/>
+      <point x="700" y="700" type="line"/>
+      <point x="500" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="700" type="line"/>
+      <point x="0" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="200" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.75</string>
+    </dict>
+  </lib>
+</glyph>

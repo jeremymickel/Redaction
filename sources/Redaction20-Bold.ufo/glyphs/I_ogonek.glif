@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="400"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="320" y="-200" type="line"/>
+      <point x="360" y="-200" type="line"/>
+      <point x="360" y="-180" type="line"/>
+      <point x="380" y="-180" type="line"/>
+      <point x="380" y="-140" type="line"/>
+      <point x="360" y="-140" type="line"/>
+      <point x="360" y="-160" type="line"/>
+      <point x="300" y="-160" type="line"/>
+      <point x="300" y="-140" type="line"/>
+      <point x="280" y="-140" type="line"/>
+      <point x="280" y="-60" type="line"/>
+      <point x="300" y="-60" type="line"/>
+      <point x="300" y="-40" type="line"/>
+      <point x="320" y="-40" type="line"/>
+      <point x="320" y="-20" type="line"/>
+      <point x="360" y="-20" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="40" type="line"/>
+      <point x="300" y="40" type="line"/>
+      <point x="300" y="60" type="line"/>
+      <point x="280" y="60" type="line"/>
+      <point x="280" y="640" type="line"/>
+      <point x="300" y="640" type="line"/>
+      <point x="300" y="660" type="line"/>
+      <point x="380" y="660" type="line"/>
+      <point x="380" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="20" y="660" type="line"/>
+      <point x="100" y="660" type="line"/>
+      <point x="100" y="620" type="line"/>
+      <point x="120" y="620" type="line"/>
+      <point x="120" y="60" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="100" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="-20" type="line"/>
+      <point x="280" y="-20" type="line"/>
+      <point x="280" y="-40" type="line"/>
+      <point x="240" y="-40" type="line"/>
+      <point x="240" y="-60" type="line"/>
+      <point x="220" y="-60" type="line"/>
+      <point x="220" y="-100" type="line"/>
+      <point x="200" y="-100" type="line"/>
+      <point x="200" y="-180" type="line"/>
+      <point x="220" y="-180" type="line"/>
+      <point x="220" y="-200" type="line"/>
+      <point x="240" y="-200" type="line"/>
+      <point x="240" y="-220" type="line"/>
+      <point x="320" y="-220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.75</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+table BASE {
+    HorizAxis.BaseTagList       ideo  romn;
+    HorizAxis.BaseScriptList    DFLT    romn    -150 0,
+                                latn    romn    -150 0;
+} BASE;
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn ROM;
+
+feature locl {
+script latn;
+
+	language TRK exclude_dflt;
+		lookup IDOT {
+			sub i by idotaccent;
+		} IDOT;
+
+	language AZE exclude_dflt;
+		lookup IDOT;
+
+	language CRT exclude_dflt;
+		lookup IDOT;
+
+	language ROM exclude_dflt;
+		lookup SCEDILLA {
+			sub scedilla by scommaaccent;
+			sub Scedilla by Scommaaccent;
+			sub Tcedilla by uni021A;
+			sub tcedilla by uni021B;
+		} SCEDILLA;
+} locl;
+
+
+@fig = [ one two three   ];
+
+@sups = [onesuperior twosuperior threesuperior ];
+
+
+feature frac {
+	sub zero slash zero by percent;
+	sub one slash two by onehalf;
+	sub one slash four by onequarter;
+	sub three slash four by threequarters;
+	sub three slash five by uni2157;
+} frac;
+
+
+feature numr {
+    sub @fig by @sups;
+    } numr;
+    
+feature sups {
+    sub @fig by @sups;
+    } sups;
+    

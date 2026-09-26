@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversequoteleft" format="2">
+  <advance width="240"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="180" y="460" type="line"/>
+      <point x="160" y="460" type="line"/>
+      <point x="160" y="480" type="line"/>
+      <point x="140" y="480" type="line"/>
+      <point x="140" y="500" type="line"/>
+      <point x="120" y="500" type="line"/>
+      <point x="120" y="520" type="line"/>
+      <point x="100" y="520" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="120" y="600" type="line"/>
+      <point x="120" y="580" type="line"/>
+      <point x="180" y="580" type="line"/>
+      <point x="180" y="600" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="200" y="680" type="line"/>
+      <point x="180" y="680" type="line"/>
+      <point x="180" y="700" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="160" y="720" type="line"/>
+      <point x="80" y="720" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="680" type="line"/>
+      <point x="40" y="680" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="520" type="line"/>
+      <point x="80" y="520" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="480" type="line"/>
+      <point x="120" y="480" type="line"/>
+      <point x="120" y="460" type="line"/>
+      <point x="160" y="460" type="line"/>
+      <point x="160" y="440" type="line"/>
+      <point x="180" y="440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

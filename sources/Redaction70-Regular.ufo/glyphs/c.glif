@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="420"/>
+  <unicode hex="0063"/>
+  <anchor x="210.0" y="490" name="top"/>
+  <anchor x="210.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="350" y="70" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="280" y="420" type="line"/>
+      <point x="280" y="350" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="350" y="490" type="line"/>
+      <point x="140" y="490" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="70" y="280" type="line"/>
+      <point x="0" y="280" type="line"/>
+      <point x="0" y="140" type="line"/>
+      <point x="70" y="140" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="140" type="line"/>
+      <point x="350" y="140" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="420" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.lfXvzmUgjq</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xIyzJBgn9Z</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

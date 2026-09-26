@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="350"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="450" type="line"/>
+      <point x="250" y="450" type="line"/>
+      <point x="250" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="250" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="150" y="200" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="100" y="150" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="150" y="100" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="250" y="150" type="line"/>
+      <point x="250" y="200" type="line"/>
+      <point x="350" y="200" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="300" y="350" type="line"/>
+      <point x="300" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

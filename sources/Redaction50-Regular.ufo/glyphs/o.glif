@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="500"/>
+  <unicode hex="006F"/>
+  <anchor x="250.0" y="450" name="top"/>
+  <outline>
+    <contour>
+      <point x="400" y="50" type="line"/>
+      <point x="450" y="50" type="line"/>
+      <point x="450" y="150" type="line"/>
+      <point x="500" y="150" type="line"/>
+      <point x="500" y="350" type="line"/>
+      <point x="450" y="350" type="line"/>
+      <point x="450" y="400" type="line"/>
+      <point x="400" y="400" type="line"/>
+      <point x="400" y="450" type="line"/>
+      <point x="300" y="450" type="line"/>
+      <point x="300" y="500" type="line"/>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="450" type="line"/>
+      <point x="100" y="450" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="50" y="400" type="line"/>
+      <point x="50" y="250" type="line"/>
+      <point x="0" y="250" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="50" y="200" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="150" y="50" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="50" type="line"/>
+      <point x="150" y="150" type="line"/>
+      <point x="100" y="150" type="line"/>
+      <point x="100" y="350" type="line"/>
+      <point x="150" y="350" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="200" y="450" type="line"/>
+      <point x="300" y="450" type="line"/>
+      <point x="300" y="400" type="line"/>
+      <point x="350" y="400" type="line"/>
+      <point x="350" y="250" type="line"/>
+      <point x="400" y="250" type="line"/>
+      <point x="400" y="150" type="line"/>
+      <point x="350" y="150" type="line"/>
+      <point x="350" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.guideline.magnetic.QzQO6RMa2I</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xFNeFFclUq</key>
+      <real>2.0</real>
+    </dict>
+  </lib>
+</glyph>

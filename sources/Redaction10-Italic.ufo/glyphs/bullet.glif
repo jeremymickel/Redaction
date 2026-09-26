@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="280"/>
+  <unicode hex="2022"/>
+  <guideline x="159.4012499850935" y="285" angle="111.0" identifier="uEsM9RX18I"/>
+  <guideline x="159.4012499850935" y="285" angle="0" identifier="QyjMQ2TamV"/>
+  <guideline x="297.3697982124536" y="634" angle="111.0" identifier="A0zMfQRXYP"/>
+  <guideline x="297.3697982124536" y="634" angle="0" identifier="s9YzXKl7lu"/>
+  <outline>
+    <contour>
+      <point x="140" y="430" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="130" y="420" type="line"/>
+      <point x="130" y="390" type="line"/>
+      <point x="120" y="390" type="line"/>
+      <point x="120" y="370" type="line"/>
+      <point x="110" y="370" type="line"/>
+      <point x="110" y="340" type="line"/>
+      <point x="100" y="340" type="line"/>
+      <point x="100" y="310" type="line"/>
+      <point x="90" y="310" type="line"/>
+      <point x="90" y="290" type="line"/>
+      <point x="80" y="290" type="line"/>
+      <point x="80" y="270" type="line"/>
+      <point x="230" y="270" type="line"/>
+      <point x="230" y="290" type="line"/>
+      <point x="240" y="290" type="line"/>
+      <point x="240" y="310" type="line"/>
+      <point x="250" y="310" type="line"/>
+      <point x="250" y="340" type="line"/>
+      <point x="260" y="340" type="line"/>
+      <point x="260" y="370" type="line"/>
+      <point x="270" y="370" type="line"/>
+      <point x="270" y="390" type="line"/>
+      <point x="280" y="390" type="line"/>
+      <point x="280" y="420" type="line"/>
+      <point x="290" y="420" type="line"/>
+      <point x="290" y="430" type="line"/>
+    </contour>
+  </outline>
+</glyph>

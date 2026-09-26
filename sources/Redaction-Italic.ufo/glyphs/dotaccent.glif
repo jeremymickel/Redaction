@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="500"/>
+  <unicode hex="02D9"/>
+  <guideline x="356" y="512" angle="69.0" identifier="k0U6jmTShH"/>
+  <anchor x="340.0" y="470" name="_top"/>
+  <anchor x="403.0" y="635" name="_dot"/>
+  <outline>
+    <contour>
+      <point x="333" y="585" type="line"/>
+      <point x="433" y="585" type="line"/>
+      <point x="475" y="684" type="line"/>
+      <point x="375" y="684" type="line"/>
+    </contour>
+  </outline>
+</glyph>

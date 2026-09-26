@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="731"/>
+  <outline>
+    <contour>
+      <point x="480" y="710" type="curve" smooth="yes"/>
+      <point x="250" y="710"/>
+      <point x="71" y="472"/>
+      <point x="71" y="268" type="curve" smooth="yes"/>
+      <point x="71" y="108"/>
+      <point x="174" y="-9"/>
+      <point x="340" y="-9" type="curve" smooth="yes"/>
+      <point x="570" y="-9"/>
+      <point x="749" y="229"/>
+      <point x="749" y="433" type="curve" smooth="yes"/>
+      <point x="749" y="593"/>
+      <point x="646" y="710"/>
+    </contour>
+    <contour>
+      <point x="336" y="34" type="curve" smooth="yes"/>
+      <point x="245" y="34"/>
+      <point x="177" y="106"/>
+      <point x="177" y="231" type="curve" smooth="yes"/>
+      <point x="177" y="415"/>
+      <point x="306" y="668"/>
+      <point x="479" y="668" type="curve" smooth="yes"/>
+      <point x="574" y="668"/>
+      <point x="642" y="595"/>
+      <point x="642" y="470" type="curve" smooth="yes"/>
+      <point x="642" y="286"/>
+      <point x="514" y="34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.UtOTejCca0</key>
+      <real>2.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.uXSUqdu7Cx</key>
+      <real>2.0</real>
+      <key>public.markColor</key>
+      <string>1,0.9176,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="490"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="210" y="490" type="line"/>
+      <point x="280" y="490" type="line"/>
+      <point x="280" y="630" type="line"/>
+      <point x="350" y="630" type="line"/>
+      <point x="350" y="490" type="line"/>
+      <point x="420" y="490" type="line"/>
+      <point x="420" y="630" type="line"/>
+      <point x="350" y="630" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="280" y="700" type="line"/>
+      <point x="280" y="770" type="line"/>
+      <point x="210" y="770" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="140" y="630" type="line"/>
+      <point x="70" y="630" type="line"/>
+      <point x="70" y="560" type="line"/>
+      <point x="0" y="560" type="line"/>
+      <point x="0" y="490" type="line"/>
+      <point x="70" y="490" type="line"/>
+      <point x="70" y="350" type="line"/>
+      <point x="210" y="350" type="line"/>
+      <point x="210" y="280" type="line"/>
+      <point x="350" y="280" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="420" y="70" type="line"/>
+      <point x="420" y="140" type="line"/>
+      <point x="490" y="140" type="line"/>
+      <point x="490" y="280" type="line"/>
+      <point x="420" y="280" type="line"/>
+      <point x="420" y="350" type="line"/>
+      <point x="280" y="350" type="line"/>
+      <point x="280" y="420" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="140" y="630" type="line"/>
+      <point x="210" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="70" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="210" type="line"/>
+      <point x="70" y="210" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="-70" type="line"/>
+      <point x="280" y="-70" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="280" y="70" type="line"/>
+      <point x="280" y="210" type="line"/>
+      <point x="210" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.H0DWrtgKb4</key>
+      <real>20.0</real>
+      <key>com.typemytype.robofont.guideline.showMeasurements.H0DWrtgKb4</key>
+      <true/>
+      <key>public.markColor</key>
+      <string>1,0.9176,0,1</string>
+    </dict>
+  </lib>
+</glyph>

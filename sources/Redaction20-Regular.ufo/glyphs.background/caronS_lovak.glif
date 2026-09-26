@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronSlovak" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="700" name="_slovak"/>
+  <outline>
+    <contour>
+      <point x="203" y="496" type="line"/>
+      <point x="223" y="496" type="line"/>
+      <point x="223" y="516" type="line"/>
+      <point x="203" y="516" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="636" type="line"/>
+      <point x="283" y="596" type="line"/>
+      <point x="263" y="596" type="line"/>
+      <point x="263" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="536" type="line"/>
+      <point x="283" y="536" type="line"/>
+      <point x="283" y="556" type="line"/>
+      <point x="303" y="556" type="line"/>
+      <point x="303" y="596" type="line"/>
+      <point x="323" y="596" type="line"/>
+      <point x="323" y="676" type="line"/>
+      <point x="303" y="676" type="line"/>
+      <point x="303" y="696" type="line"/>
+      <point x="263" y="696" type="line"/>
+      <point x="263" y="716" type="line"/>
+      <point x="223" y="716" type="line"/>
+      <point x="223" y="696" type="line"/>
+      <point x="203" y="696" type="line"/>
+      <point x="203" y="676" type="line"/>
+      <point x="183" y="676" type="line"/>
+      <point x="183" y="616" type="line"/>
+      <point x="223" y="616" type="line"/>
+      <point x="223" y="596" type="line"/>
+      <point x="263" y="596" type="line"/>
+      <point x="263" y="556" type="line"/>
+      <point x="243" y="556" type="line"/>
+      <point x="243" y="516" type="line"/>
+      <point x="263" y="516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

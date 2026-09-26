@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="350"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="175" y="-175" type="line"/>
+      <point x="105" y="-175" type="line"/>
+      <point x="105" y="-70" type="line"/>
+      <point x="140" y="-70" type="line"/>
+      <point x="140" y="-35" type="line"/>
+      <point x="175" y="-35" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="315" y="35" type="line"/>
+      <point x="245" y="35" type="line"/>
+      <point x="245" y="70" type="line"/>
+      <point x="210" y="70" type="line"/>
+      <point x="210" y="630" type="line"/>
+      <point x="245" y="630" type="line"/>
+      <point x="245" y="665" type="line"/>
+      <point x="315" y="665" type="line"/>
+      <point x="315" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="35" y="665" type="line"/>
+      <point x="105" y="665" type="line"/>
+      <point x="105" y="35" type="line"/>
+      <point x="35" y="35" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="-35" type="line"/>
+      <point x="70" y="-35" type="line"/>
+      <point x="70" y="-105" type="line"/>
+      <point x="35" y="-105" type="line"/>
+      <point x="35" y="-175" type="line"/>
+      <point x="70" y="-175" type="line"/>
+      <point x="70" y="-210" type="line"/>
+      <point x="175" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.75</string>
+    </dict>
+  </lib>
+</glyph>

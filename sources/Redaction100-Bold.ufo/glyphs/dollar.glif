@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="600"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="400" y="100" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="300" y="400" type="line"/>
+      <point x="300" y="500" type="line"/>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="400" y="500" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="500" y="600" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="300" y="800" type="line"/>
+      <point x="200" y="800" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="0" y="600" type="line"/>
+      <point x="0" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="100" y="300" type="line"/>
+      <point x="300" y="300" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="400" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="-100" type="line"/>
+      <point x="300" y="-100" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="200" y="100" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.H0DWrtgKb4</key>
+      <real>20.0</real>
+      <key>com.typemytype.robofont.guideline.showMeasurements.H0DWrtgKb4</key>
+      <true/>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

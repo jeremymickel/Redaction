@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="240"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="80" y="480" type="line"/>
+      <point x="100" y="480" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="140" y="500" type="line"/>
+      <point x="140" y="540" type="line"/>
+      <point x="160" y="540" type="line"/>
+      <point x="160" y="560" type="line"/>
+      <point x="180" y="560" type="line"/>
+      <point x="180" y="680" type="line"/>
+      <point x="160" y="680" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="120" y="700" type="line"/>
+      <point x="120" y="720" type="line"/>
+      <point x="100" y="720" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="80" y="620" type="line"/>
+      <point x="80" y="600" type="line"/>
+      <point x="120" y="600" type="line"/>
+      <point x="120" y="620" type="line"/>
+      <point x="140" y="620" type="line"/>
+      <point x="140" y="540" type="line"/>
+      <point x="120" y="540" type="line"/>
+      <point x="120" y="520" type="line"/>
+      <point x="100" y="520" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="80" y="480" type="line"/>
+      <point x="60" y="480" type="line"/>
+      <point x="60" y="460" type="line"/>
+      <point x="80" y="460" type="line"/>
+    </contour>
+  </outline>
+</glyph>

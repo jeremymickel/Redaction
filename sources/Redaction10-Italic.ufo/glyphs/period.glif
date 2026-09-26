@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="240"/>
+  <unicode hex="002E"/>
+  <guideline x="159.4012499850935" y="285" angle="111.0" identifier="9SfQx7Tvwl"/>
+  <guideline x="159.4012499850935" y="285" angle="0" identifier="cJASVaY9x2"/>
+  <guideline x="297.3697982124536" y="634" angle="111.0" identifier="cWCcIVSUiP"/>
+  <guideline x="297.3697982124536" y="634" angle="0" identifier="AV9vYJv7TQ"/>
+  <guideline x="91" y="13" angle="69.0" identifier="MwPLdullXb"/>
+  <outline>
+    <contour>
+      <point x="10" y="110" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+      <point x="0" y="60" type="line"/>
+      <point x="-10" y="60" type="line"/>
+      <point x="-10" y="30" type="line"/>
+      <point x="-20" y="30" type="line"/>
+      <point x="-20" y="10" type="line"/>
+      <point x="-30" y="10" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="10" type="line"/>
+      <point x="90" y="10" type="line"/>
+      <point x="90" y="30" type="line"/>
+      <point x="100" y="30" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="110" y="60" type="line"/>
+      <point x="110" y="80" type="line"/>
+      <point x="120" y="80" type="line"/>
+      <point x="120" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9SfQx7Tvwl</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.AV9vYJv7TQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cJASVaY9x2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cWCcIVSUiP</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="700"/>
+  <unicode hex="0056"/>
+  <note>
+Version created Wed Dec 19 21:21:56 2018
+</note>
+  <outline>
+    <contour>
+      <point x="300" y="50" type="line"/>
+      <point x="350" y="50" type="line"/>
+      <point x="350" y="100" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="400" y="150" type="line"/>
+      <point x="350" y="150" type="line"/>
+      <point x="350" y="650" type="line"/>
+      <point x="400" y="650" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="150" y="650" type="line"/>
+      <point x="200" y="650" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="250" y="-50" type="line"/>
+      <point x="300" y="-50" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="250" type="line"/>
+      <point x="500" y="300" type="line"/>
+      <point x="550" y="300" type="line"/>
+      <point x="550" y="350" type="line"/>
+      <point x="600" y="350" type="line"/>
+      <point x="600" y="400" type="line"/>
+      <point x="650" y="400" type="line"/>
+      <point x="650" y="500" type="line"/>
+      <point x="700" y="500" type="line"/>
+      <point x="700" y="550" type="line"/>
+      <point x="750" y="550" type="line"/>
+      <point x="750" y="600" type="line"/>
+      <point x="800" y="600" type="line"/>
+      <point x="800" y="650" type="line"/>
+      <point x="850" y="650" type="line"/>
+      <point x="850" y="700" type="line"/>
+      <point x="650" y="700" type="line"/>
+      <point x="650" y="650" type="line"/>
+      <point x="700" y="650" type="line"/>
+      <point x="700" y="550" type="line"/>
+      <point x="650" y="550" type="line"/>
+      <point x="650" y="500" type="line"/>
+      <point x="600" y="500" type="line"/>
+      <point x="600" y="400" type="line"/>
+      <point x="550" y="400" type="line"/>
+      <point x="550" y="350" type="line"/>
+      <point x="500" y="350" type="line"/>
+      <point x="500" y="300" type="line"/>
+      <point x="450" y="300" type="line"/>
+      <point x="450" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="200" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="400" y="150" type="line"/>
+      <point x="450" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>SBAlt</key>
+      <string>right</string>
+    </dict>
+  </lib>
+</glyph>

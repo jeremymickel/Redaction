@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="500"/>
+  <unicode hex="02C7"/>
+  <guideline x="490" y="700" angle="0" identifier="V1I1iCzGgP"/>
+  <guideline x="247" y="691" angle="0" identifier="hyhrqRnkHL"/>
+  <anchor x="250.0" y="467" name="_top"/>
+  <outline>
+    <component base="circumflex" xScale="-1" yScale="-1" xOffset="500" yOffset="1230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,1,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="750"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="500" y="350" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="550" y="400" type="line"/>
+      <point x="550" y="500" type="line"/>
+      <point x="600" y="500" type="line"/>
+      <point x="600" y="550" type="line"/>
+      <point x="650" y="550" type="line"/>
+      <point x="650" y="650" type="line"/>
+      <point x="750" y="650" type="line"/>
+      <point x="750" y="700" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="550" y="650" type="line"/>
+      <point x="600" y="650" type="line"/>
+      <point x="600" y="550" type="line"/>
+      <point x="550" y="550" type="line"/>
+      <point x="550" y="500" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="450" y="400" type="line"/>
+      <point x="450" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="150" type="line"/>
+      <point x="300" y="150" type="line"/>
+      <point x="300" y="50" type="line"/>
+      <point x="200" y="50" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="50" type="line"/>
+      <point x="450" y="50" type="line"/>
+      <point x="450" y="150" type="line"/>
+      <point x="600" y="150" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="450" y="200" type="line"/>
+      <point x="450" y="250" type="line"/>
+      <point x="600" y="250" type="line"/>
+      <point x="600" y="300" type="line"/>
+      <point x="450" y="300" type="line"/>
+      <point x="450" y="350" type="line"/>
+      <point x="400" y="350" type="line"/>
+      <point x="400" y="450" type="line"/>
+      <point x="350" y="450" type="line"/>
+      <point x="350" y="500" type="line"/>
+      <point x="300" y="500" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="300" y="650" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="0" y="650" type="line"/>
+      <point x="50" y="650" type="line"/>
+      <point x="50" y="600" type="line"/>
+      <point x="100" y="600" type="line"/>
+      <point x="100" y="550" type="line"/>
+      <point x="150" y="550" type="line"/>
+      <point x="150" y="450" type="line"/>
+      <point x="200" y="450" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="300" type="line"/>
+      <point x="150" y="300" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="300" y="250" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="350" y="200" type="line"/>
+      <point x="350" y="150" type="line"/>
+      <point x="300" y="150" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="150" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,1,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

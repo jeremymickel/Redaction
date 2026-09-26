@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="320"/>
+  <unicode hex="006A"/>
+  <note>
+Version created Thu Jan  3 14:08:43 2019
+</note>
+  <outline>
+    <contour>
+      <point x="100" y="580" type="line"/>
+      <point x="240" y="580" type="line"/>
+      <point x="240" y="720" type="line"/>
+      <point x="100" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="440" type="line"/>
+      <point x="40" y="440" type="line"/>
+      <point x="40" y="420" type="line"/>
+      <point x="80" y="420" type="line"/>
+      <point x="80" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="100" y="-160" type="line"/>
+      <point x="80" y="-160" type="line"/>
+      <point x="80" y="-180" type="line"/>
+      <point x="60" y="-180" type="line"/>
+      <point x="60" y="-200" type="line"/>
+      <point x="0" y="-200" type="line"/>
+      <point x="0" y="-160" type="line"/>
+      <point x="20" y="-160" type="line"/>
+      <point x="20" y="-120" type="line"/>
+      <point x="0" y="-120" type="line"/>
+      <point x="0" y="-80" type="line"/>
+      <point x="-80" y="-80" type="line"/>
+      <point x="-80" y="-100" type="line"/>
+      <point x="-100" y="-100" type="line"/>
+      <point x="-100" y="-180" type="line"/>
+      <point x="-80" y="-180" type="line"/>
+      <point x="-80" y="-200" type="line"/>
+      <point x="-60" y="-200" type="line"/>
+      <point x="-60" y="-220" type="line"/>
+      <point x="-20" y="-220" type="line"/>
+      <point x="-20" y="-240" type="line"/>
+      <point x="120" y="-240" type="line"/>
+      <point x="120" y="-220" type="line"/>
+      <point x="160" y="-220" type="line"/>
+      <point x="160" y="-200" type="line"/>
+      <point x="180" y="-200" type="line"/>
+      <point x="180" y="-180" type="line"/>
+      <point x="200" y="-180" type="line"/>
+      <point x="200" y="-160" type="line"/>
+      <point x="220" y="-160" type="line"/>
+      <point x="220" y="-120" type="line"/>
+      <point x="240" y="-120" type="line"/>
+      <point x="240" y="500" type="line"/>
+      <point x="180" y="500" type="line"/>
+      <point x="180" y="480" type="line"/>
+      <point x="100" y="480" type="line"/>
+      <point x="100" y="460" type="line"/>
+      <point x="20" y="460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ovZzWXy4fA</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.v7bQAHHGnF</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

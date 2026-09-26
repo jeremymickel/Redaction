@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="280"/>
+  <unicode hex="006C"/>
+  <guideline x="186" y="484" angle="69.0" identifier="jLMS4doyV1"/>
+  <guideline x="231" y="361" angle="69.0" identifier="HYtmM6L1mr"/>
+  <anchor x="315.0" y="700" name="top"/>
+  <anchor x="70.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="350" y="700" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="210" y="665" type="line"/>
+      <point x="245" y="665" type="line"/>
+      <point x="245" y="595" type="line"/>
+      <point x="210" y="595" type="line"/>
+      <point x="210" y="490" type="line"/>
+      <point x="175" y="490" type="line"/>
+      <point x="175" y="420" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="140" y="315" type="line"/>
+      <point x="105" y="315" type="line"/>
+      <point x="105" y="245" type="line"/>
+      <point x="70" y="245" type="line"/>
+      <point x="70" y="140" type="line"/>
+      <point x="35" y="140" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="35" type="line"/>
+      <point x="175" y="35" type="line"/>
+      <point x="175" y="70" type="line"/>
+      <point x="105" y="70" type="line"/>
+      <point x="105" y="105" type="line"/>
+      <point x="140" y="105" type="line"/>
+      <point x="140" y="210" type="line"/>
+      <point x="175" y="210" type="line"/>
+      <point x="175" y="280" type="line"/>
+      <point x="210" y="280" type="line"/>
+      <point x="210" y="385" type="line"/>
+      <point x="245" y="385" type="line"/>
+      <point x="245" y="455" type="line"/>
+      <point x="280" y="455" type="line"/>
+      <point x="280" y="560" type="line"/>
+      <point x="315" y="560" type="line"/>
+      <point x="315" y="630" type="line"/>
+      <point x="350" y="630" type="line"/>
+    </contour>
+  </outline>
+</glyph>

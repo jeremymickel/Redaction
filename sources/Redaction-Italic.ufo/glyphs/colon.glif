@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="240"/>
+  <unicode hex="003A"/>
+  <guideline x="140" y="285" angle="90" identifier="rTU5upstuR"/>
+  <guideline x="140" y="285" angle="0" identifier="vsDv0wN4pz"/>
+  <guideline x="144" y="634" angle="90" identifier="FRBCIL4rxh"/>
+  <guideline x="144" y="634" angle="0" identifier="KalbgYLf9A"/>
+  <outline>
+    <contour>
+      <point x="158" y="480" type="line"/>
+      <point x="115" y="367" type="line"/>
+      <point x="227" y="367" type="line"/>
+      <point x="270" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="113" type="line"/>
+      <point x="-26" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="129" y="113" type="line"/>
+    </contour>
+  </outline>
+</glyph>

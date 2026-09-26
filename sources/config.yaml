@@ -1,0 +1,24 @@
+# Build configuration for gftools-builder -- base family (hinted).
+#   gftools builder sources/config.yaml
+#
+# Redaction ships as seven related static families (Redaction, Redaction 10,
+# 20, 35, 50, 70 and 100 -- the number is the optical size, drawn as
+# progressively degraded bitmap-derived forms), each with Regular, Bold and
+# Italic. The optical sizes (and even Regular/Bold) are not interpolation-
+# compatible, so no variable font is built.
+#
+# The six bitmap families are built by sources/config-bitmap.yaml, unhinted:
+# ttfautohint fights the deliberately degraded outlines.
+sources:
+  - Redaction-Regular.ufo
+  - Redaction-Bold.ufo
+  - Redaction-Italic.ufo
+
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: true
+buildWebfont: true
+
+autohintTTF: true
+autohintOTF: false

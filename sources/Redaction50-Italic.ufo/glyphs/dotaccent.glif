@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="500"/>
+  <unicode hex="02D9"/>
+  <guideline x="356" y="512" angle="69.0" identifier="k0U6jmTShH"/>
+  <anchor x="350.0" y="500" name="_top"/>
+  <anchor x="403.0" y="635" name="_dot"/>
+  <outline>
+    <contour>
+      <point x="350" y="600" type="line"/>
+      <point x="450" y="600" type="line"/>
+      <point x="450" y="700" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="400" y="650" type="line"/>
+      <point x="350" y="650" type="line"/>
+    </contour>
+  </outline>
+</glyph>

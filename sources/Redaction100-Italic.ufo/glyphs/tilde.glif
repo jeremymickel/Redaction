@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <guideline x="104" y="669" angle="90"/>
+  <guideline x="396" y="657" angle="90"/>
+  <guideline x="258" y="724" angle="0"/>
+  <guideline x="104" y="669" angle="90"/>
+  <guideline x="396" y="657" angle="90"/>
+  <guideline x="258" y="724" angle="0"/>
+  <guideline x="104" y="669" angle="90"/>
+  <guideline x="396" y="657" angle="90"/>
+  <guideline x="258" y="724" angle="0"/>
+  <guideline x="104" y="669" angle="90"/>
+  <guideline x="396" y="657" angle="90"/>
+  <guideline x="258" y="724" angle="0"/>
+  <anchor x="200.0" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="200" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="300" y="800" type="line"/>
+      <point x="200" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="700" type="line"/>
+      <point x="500" y="700" type="line"/>
+      <point x="500" y="800" type="line"/>
+      <point x="400" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="600" type="line"/>
+      <point x="200" y="600" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="600" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

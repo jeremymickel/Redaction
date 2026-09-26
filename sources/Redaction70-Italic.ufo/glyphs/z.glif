@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="420"/>
+  <unicode hex="007A"/>
+  <note>
+Version created Mon Feb 11 21:07:42 2019
+</note>
+  <anchor x="280.0" y="490" name="top"/>
+  <outline>
+    <contour>
+      <point x="420" y="490" type="line"/>
+      <point x="140" y="490" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="70" y="350" type="line"/>
+      <point x="140" y="350" type="line"/>
+      <point x="140" y="420" type="line"/>
+      <point x="350" y="420" type="line"/>
+      <point x="350" y="350" type="line"/>
+      <point x="420" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="210" type="line"/>
+      <point x="140" y="210" type="line"/>
+      <point x="140" y="140" type="line"/>
+      <point x="210" y="140" type="line"/>
+      <point x="210" y="210" type="line"/>
+      <point x="280" y="210" type="line"/>
+      <point x="280" y="280" type="line"/>
+      <point x="210" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="0" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

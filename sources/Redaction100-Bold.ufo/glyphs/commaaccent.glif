@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
+  <advance width="500"/>
+  <unicode hex="0326"/>
+  <note>
+Version created Tue Oct  2 15:38:02 2018
+</note>
+  <anchor x="200.0" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="300" y="-100" type="line"/>
+      <point x="200" y="-100" type="line"/>
+      <point x="200" y="-300" type="line"/>
+      <point x="300" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

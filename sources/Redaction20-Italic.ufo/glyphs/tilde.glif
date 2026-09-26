@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <guideline x="348" y="492" angle="69.0" identifier="FuOC9rvomH"/>
+  <anchor x="340.0" y="480.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="240" y="580" type="line"/>
+      <point x="260" y="580" type="line"/>
+      <point x="260" y="600" type="line"/>
+      <point x="280" y="600" type="line"/>
+      <point x="280" y="620" type="line"/>
+      <point x="340" y="620" type="line"/>
+      <point x="340" y="600" type="line"/>
+      <point x="380" y="600" type="line"/>
+      <point x="380" y="580" type="line"/>
+      <point x="400" y="580" type="line"/>
+      <point x="400" y="560" type="line"/>
+      <point x="500" y="560" type="line"/>
+      <point x="500" y="580" type="line"/>
+      <point x="520" y="580" type="line"/>
+      <point x="520" y="600" type="line"/>
+      <point x="540" y="600" type="line"/>
+      <point x="540" y="640" type="line"/>
+      <point x="440" y="640" type="line"/>
+      <point x="440" y="660" type="line"/>
+      <point x="400" y="660" type="line"/>
+      <point x="400" y="680" type="line"/>
+      <point x="360" y="680" type="line"/>
+      <point x="360" y="700" type="line"/>
+      <point x="320" y="700" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="280" y="680" type="line"/>
+      <point x="280" y="640" type="line"/>
+      <point x="260" y="640" type="line"/>
+      <point x="260" y="620" type="line"/>
+      <point x="240" y="620" type="line"/>
+      <point x="240" y="580" type="line"/>
+      <point x="220" y="580" type="line"/>
+      <point x="220" y="560" type="line"/>
+      <point x="240" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="640" type="line"/>
+      <point x="560" y="660" type="line"/>
+      <point x="580" y="660" type="line"/>
+      <point x="580" y="680" type="line"/>
+      <point x="560" y="680" type="line"/>
+      <point x="560" y="660" type="line"/>
+      <point x="540" y="660" type="line"/>
+      <point x="540" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

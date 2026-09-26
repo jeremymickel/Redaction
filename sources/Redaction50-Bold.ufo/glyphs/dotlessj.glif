@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="300"/>
+  <unicode hex="0237"/>
+  <note>
+Version created Thu Jan  3 14:08:43 2019
+</note>
+  <anchor x="150.0" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="-200" type="line"/>
+      <point x="200" y="-200" type="line"/>
+      <point x="200" y="-150" type="line"/>
+      <point x="250" y="-150" type="line"/>
+      <point x="250" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="450" type="line"/>
+      <point x="50" y="450" type="line"/>
+      <point x="50" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+      <point x="100" y="-150" type="line"/>
+      <point x="50" y="-150" type="line"/>
+      <point x="50" y="-200" type="line"/>
+      <point x="0" y="-200" type="line"/>
+      <point x="0" y="-100" type="line"/>
+      <point x="-100" y="-100" type="line"/>
+      <point x="-100" y="-200" type="line"/>
+      <point x="-50" y="-200" type="line"/>
+      <point x="-50" y="-250" type="line"/>
+      <point x="150" y="-250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ovZzWXy4fA</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.v7bQAHHGnF</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

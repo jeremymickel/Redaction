@@ -1,0 +1,34 @@
+# Build configuration for gftools-builder -- the bitmap optical sizes.
+#   gftools builder sources/config-bitmap.yaml
+#
+# These families are released unhinted on purpose (the degraded outlines
+# render better without ttfautohint). gftools-fix-font still applies the
+# standard unhinted gasp/prep settings that Google Fonts expects.
+sources:
+  - Redaction10-Regular.ufo
+  - Redaction10-Bold.ufo
+  - Redaction10-Italic.ufo
+  - Redaction20-Regular.ufo
+  - Redaction20-Bold.ufo
+  - Redaction20-Italic.ufo
+  - Redaction35-Regular.ufo
+  - Redaction35-Bold.ufo
+  - Redaction35-Italic.ufo
+  - Redaction50-Regular.ufo
+  - Redaction50-Bold.ufo
+  - Redaction50-Italic.ufo
+  - Redaction70-Regular.ufo
+  - Redaction70-Bold.ufo
+  - Redaction70-Italic.ufo
+  - Redaction100-Regular.ufo
+  - Redaction100-Bold.ufo
+  - Redaction100-Italic.ufo
+
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: true
+buildWebfont: true
+
+autohintTTF: false
+autohintOTF: false

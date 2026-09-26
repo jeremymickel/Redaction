@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="240"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="130" y="300" type="line"/>
+      <point x="140" y="300" type="line"/>
+      <point x="140" y="370" type="line"/>
+      <point x="150" y="370" type="line"/>
+      <point x="150" y="450" type="line"/>
+      <point x="160" y="450" type="line"/>
+      <point x="160" y="530" type="line"/>
+      <point x="170" y="530" type="line"/>
+      <point x="170" y="600" type="line"/>
+      <point x="180" y="600" type="line"/>
+      <point x="180" y="680" type="line"/>
+      <point x="170" y="680" type="line"/>
+      <point x="170" y="690" type="line"/>
+      <point x="160" y="690" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="150" y="710" type="line"/>
+      <point x="90" y="710" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="690" type="line"/>
+      <point x="70" y="690" type="line"/>
+      <point x="70" y="570" type="line"/>
+      <point x="80" y="570" type="line"/>
+      <point x="80" y="480" type="line"/>
+      <point x="90" y="480" type="line"/>
+      <point x="90" y="390" type="line"/>
+      <point x="100" y="390" type="line"/>
+      <point x="100" y="310" type="line"/>
+      <point x="110" y="310" type="line"/>
+      <point x="110" y="220" type="line"/>
+      <point x="130" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="110" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9SfQx7Tvwl</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.AV9vYJv7TQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cJASVaY9x2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cWCcIVSUiP</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>
