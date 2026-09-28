@@ -2,7 +2,6 @@
 <glyph name="uni1E9E" format="2">
   <advance width="671"/>
   <unicode hex="1E9E"/>
-  <image fileName="uni1E_9E_.png" xScale="2.6501672022406035" yScale="2.650167202240604" xOffset="-7.963285964621726" yOffset="-140.71702849744008" color="0,0,0,0.51470"/>
   <outline>
     <contour>
       <point x="621" y="193" type="curve" smooth="yes"/>
@@ -58,16 +57,4 @@
       <point x="447" y="41"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.Image.Brightness</key>
-      <real>0.0</real>
-      <key>com.typemytype.robofont.Image.Contrast</key>
-      <real>1.0</real>
-      <key>com.typemytype.robofont.Image.Saturation</key>
-      <real>1.0</real>
-      <key>com.typemytype.robofont.Image.Sharpness</key>
-      <real>0.0</real>
-    </dict>
-  </lib>
 </glyph>
