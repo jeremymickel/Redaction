@@ -11,6 +11,17 @@ languagesystem latn AZE;
 languagesystem latn CRT;
 languagesystem latn ROM;
 
+@soft_dotted = [i j];
+@dotless = [dotlessi dotlessj];
+@marks_above = [uni0300 uni0301 uni0302 uni0303 uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C];
+
+feature ccmp {
+    # i and j lose their dot when a combining mark sits on top (Dutch ij with acutes, etc.)
+    lookup soft_dot {
+        sub @soft_dotted' @marks_above by @dotless;
+    } soft_dot;
+} ccmp;
+
 feature locl {
 script latn;
 

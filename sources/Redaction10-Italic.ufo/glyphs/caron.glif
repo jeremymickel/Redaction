@@ -4,88 +4,8 @@
   <unicode hex="02C7"/>
   <guideline x="490" y="700" angle="0" identifier="V1I1iCzGgP"/>
   <guideline x="247" y="691" angle="0" identifier="hyhrqRnkHL"/>
-  <anchor x="340.0" y="467" name="_top"/>
   <outline>
-    <contour>
-      <point x="421" y="560" type="line"/>
-      <point x="431" y="560" type="line"/>
-      <point x="431" y="570" type="line"/>
-      <point x="441" y="570" type="line"/>
-      <point x="441" y="580" type="line"/>
-      <point x="451" y="580" type="line"/>
-      <point x="451" y="590" type="line"/>
-      <point x="471" y="590" type="line"/>
-      <point x="471" y="600" type="line"/>
-      <point x="481" y="600" type="line"/>
-      <point x="481" y="610" type="line"/>
-      <point x="491" y="610" type="line"/>
-      <point x="491" y="620" type="line"/>
-      <point x="501" y="620" type="line"/>
-      <point x="501" y="630" type="line"/>
-      <point x="511" y="630" type="line"/>
-      <point x="511" y="640" type="line"/>
-      <point x="521" y="640" type="line"/>
-      <point x="521" y="650" type="line"/>
-      <point x="531" y="650" type="line"/>
-      <point x="531" y="660" type="line"/>
-      <point x="541" y="660" type="line"/>
-      <point x="541" y="670" type="line"/>
-      <point x="551" y="670" type="line"/>
-      <point x="551" y="680" type="line"/>
-      <point x="561" y="680" type="line"/>
-      <point x="561" y="690" type="line"/>
-      <point x="551" y="690" type="line"/>
-      <point x="551" y="680" type="line"/>
-      <point x="531" y="680" type="line"/>
-      <point x="531" y="670" type="line"/>
-      <point x="511" y="670" type="line"/>
-      <point x="511" y="660" type="line"/>
-      <point x="491" y="660" type="line"/>
-      <point x="491" y="650" type="line"/>
-      <point x="481" y="650" type="line"/>
-      <point x="481" y="640" type="line"/>
-      <point x="461" y="640" type="line"/>
-      <point x="461" y="630" type="line"/>
-      <point x="441" y="630" type="line"/>
-      <point x="441" y="620" type="line"/>
-      <point x="421" y="620" type="line"/>
-      <point x="421" y="610" type="line"/>
-      <point x="411" y="610" type="line"/>
-      <point x="411" y="600" type="line"/>
-      <point x="391" y="600" type="line"/>
-      <point x="391" y="590" type="line"/>
-      <point x="351" y="590" type="line"/>
-      <point x="351" y="600" type="line"/>
-      <point x="371" y="600" type="line"/>
-      <point x="371" y="610" type="line"/>
-      <point x="391" y="610" type="line"/>
-      <point x="391" y="630" type="line"/>
-      <point x="381" y="630" type="line"/>
-      <point x="381" y="640" type="line"/>
-      <point x="361" y="640" type="line"/>
-      <point x="361" y="650" type="line"/>
-      <point x="341" y="650" type="line"/>
-      <point x="341" y="660" type="line"/>
-      <point x="321" y="660" type="line"/>
-      <point x="321" y="670" type="line"/>
-      <point x="301" y="670" type="line"/>
-      <point x="301" y="680" type="line"/>
-      <point x="291" y="680" type="line"/>
-      <point x="291" y="690" type="line"/>
-      <point x="271" y="690" type="line"/>
-      <point x="271" y="670" type="line"/>
-      <point x="281" y="670" type="line"/>
-      <point x="281" y="640" type="line"/>
-      <point x="291" y="640" type="line"/>
-      <point x="291" y="620" type="line"/>
-      <point x="301" y="620" type="line"/>
-      <point x="301" y="590" type="line"/>
-      <point x="311" y="590" type="line"/>
-      <point x="311" y="560" type="line"/>
-      <point x="321" y="560" type="line"/>
-      <point x="321" y="550" type="line"/>
-      <point x="421" y="550" type="line"/>
-    </contour>
+    <component base="uni030C" xOffset="340.0"/>
   </outline>
   <lib>
     <dict>

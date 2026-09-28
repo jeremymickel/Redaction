@@ -3,61 +3,7 @@
   <advance width="500"/>
   <unicode hex="02D8"/>
   <guideline x="350" y="496" angle="69.0" identifier="sD84uSPYnP"/>
-  <anchor x="340.0" y="470.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="430" y="560" type="line"/>
-      <point x="450" y="560" type="line"/>
-      <point x="450" y="570" type="line"/>
-      <point x="470" y="570" type="line"/>
-      <point x="470" y="580" type="line"/>
-      <point x="480" y="580" type="line"/>
-      <point x="480" y="590" type="line"/>
-      <point x="490" y="590" type="line"/>
-      <point x="490" y="610" type="line"/>
-      <point x="500" y="610" type="line"/>
-      <point x="500" y="620" type="line"/>
-      <point x="510" y="620" type="line"/>
-      <point x="510" y="640" type="line"/>
-      <point x="520" y="640" type="line"/>
-      <point x="520" y="670" type="line"/>
-      <point x="530" y="670" type="line"/>
-      <point x="530" y="690" type="line"/>
-      <point x="520" y="690" type="line"/>
-      <point x="520" y="680" type="line"/>
-      <point x="510" y="680" type="line"/>
-      <point x="510" y="670" type="line"/>
-      <point x="500" y="670" type="line"/>
-      <point x="500" y="660" type="line"/>
-      <point x="490" y="660" type="line"/>
-      <point x="490" y="650" type="line"/>
-      <point x="470" y="650" type="line"/>
-      <point x="470" y="640" type="line"/>
-      <point x="440" y="640" type="line"/>
-      <point x="440" y="630" type="line"/>
-      <point x="330" y="630" type="line"/>
-      <point x="330" y="640" type="line"/>
-      <point x="310" y="640" type="line"/>
-      <point x="310" y="650" type="line"/>
-      <point x="290" y="650" type="line"/>
-      <point x="290" y="670" type="line"/>
-      <point x="280" y="670" type="line"/>
-      <point x="280" y="690" type="line"/>
-      <point x="270" y="690" type="line"/>
-      <point x="270" y="680" type="line"/>
-      <point x="260" y="680" type="line"/>
-      <point x="260" y="620" type="line"/>
-      <point x="270" y="620" type="line"/>
-      <point x="270" y="600" type="line"/>
-      <point x="280" y="600" type="line"/>
-      <point x="280" y="580" type="line"/>
-      <point x="290" y="580" type="line"/>
-      <point x="290" y="570" type="line"/>
-      <point x="310" y="570" type="line"/>
-      <point x="310" y="560" type="line"/>
-      <point x="320" y="560" type="line"/>
-      <point x="320" y="550" type="line"/>
-      <point x="430" y="550" type="line"/>
-    </contour>
+    <component base="uni0306" xOffset="340.0"/>
   </outline>
 </glyph>

@@ -2,29 +2,7 @@
 <glyph name="tilde" format="2">
   <advance width="500"/>
   <unicode hex="02DC"/>
-  <anchor x="250.0" y="493.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="442" y="732" type="line"/>
-      <point x="418" y="689"/>
-      <point x="390" y="668"/>
-      <point x="359" y="668" type="curve"/>
-      <point x="316" y="668"/>
-      <point x="234" y="733"/>
-      <point x="178" y="733" type="curve"/>
-      <point x="121" y="733"/>
-      <point x="87" y="681"/>
-      <point x="54" y="573" type="curve"/>
-      <point x="58" y="573" type="line"/>
-      <point x="83" y="615"/>
-      <point x="111" y="638"/>
-      <point x="141" y="638" type="curve"/>
-      <point x="187" y="638"/>
-      <point x="270" y="573"/>
-      <point x="322" y="573" type="curve"/>
-      <point x="379" y="573"/>
-      <point x="413" y="625"/>
-      <point x="446" y="732" type="curve"/>
-    </contour>
+    <component base="uni0303" xOffset="250.0"/>
   </outline>
 </glyph>

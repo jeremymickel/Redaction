@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="315"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="210" y="420" type="line"/>
+      <point x="280" y="420" type="line"/>
+      <point x="280" y="455" type="line"/>
+      <point x="245" y="455" type="line"/>
+      <point x="245" y="665" type="line"/>
+      <point x="210" y="665" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+      <point x="70" y="665" type="line"/>
+      <point x="35" y="665" type="line"/>
+      <point x="35" y="595" type="line"/>
+      <point x="70" y="595" type="line"/>
+      <point x="70" y="630" type="line"/>
+      <point x="105" y="630" type="line"/>
+      <point x="105" y="665" type="line"/>
+      <point x="175" y="665" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="210" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="420" type="line"/>
+      <point x="105" y="420" type="line"/>
+      <point x="105" y="455" type="line"/>
+      <point x="70" y="455" type="line"/>
+      <point x="70" y="525" type="line"/>
+      <point x="105" y="525" type="line"/>
+      <point x="105" y="560" type="line"/>
+      <point x="70" y="560" type="line"/>
+      <point x="70" y="525" type="line"/>
+      <point x="35" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="420" type="line"/>
+      <point x="175" y="420" type="line"/>
+      <point x="175" y="455" type="line"/>
+      <point x="140" y="455" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>

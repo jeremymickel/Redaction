@@ -2,15 +2,8 @@
 <glyph name="dotaccent" format="2">
   <advance width="500"/>
   <unicode hex="02D9"/>
-  <anchor x="250" y="470" name="_top"/>
-  <anchor x="250" y="635" name="_dot"/>
   <outline>
-    <contour>
-      <point x="200" y="580" type="line"/>
-      <point x="300" y="580" type="line"/>
-      <point x="300" y="670" type="line"/>
-      <point x="200" y="670" type="line"/>
-    </contour>
+    <component base="uni0307" xOffset="250"/>
   </outline>
   <lib>
     <dict>

@@ -3,20 +3,7 @@
   <advance width="500"/>
   <unicode hex="02D9"/>
   <guideline x="356" y="512" angle="69.0" identifier="k0U6jmTShH"/>
-  <anchor x="365.0" y="480" name="_top"/>
-  <anchor x="403.0" y="635" name="_dot"/>
   <outline>
-    <contour>
-      <point x="340" y="580" type="line"/>
-      <point x="440" y="580" type="line"/>
-      <point x="440" y="620" type="line"/>
-      <point x="460" y="620" type="line"/>
-      <point x="460" y="680" type="line"/>
-      <point x="380" y="680" type="line"/>
-      <point x="380" y="660" type="line"/>
-      <point x="360" y="660" type="line"/>
-      <point x="360" y="620" type="line"/>
-      <point x="340" y="620" type="line"/>
-    </contour>
+    <component base="uni0307" xOffset="365.0"/>
   </outline>
 </glyph>

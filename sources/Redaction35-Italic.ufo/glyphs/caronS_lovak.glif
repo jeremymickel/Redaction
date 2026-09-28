@@ -2,8 +2,7 @@
 <glyph name="caronSlovak" format="2">
   <advance width="500"/>
   <guideline x="209" y="127" angle="69.0" identifier="daZfyPOZhi"/>
-  <anchor x="429.0" y="700" name="_slovak"/>
   <outline>
-    <component base="commaaccent" xOffset="280" yOffset="735"/>
+    <component base="uni030C.alt" xOffset="429.0"/>
   </outline>
 </glyph>

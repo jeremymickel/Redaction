@@ -4,7 +4,7 @@
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
-    <component base="caronSlovak" xOffset="277" yOffset="-9"/>
+    <component base="uni030C.alt" xOffset="527" yOffset="-9"/>
   </outline>
   <lib>
     <dict>

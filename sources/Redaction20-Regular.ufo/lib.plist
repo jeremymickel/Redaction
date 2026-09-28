@@ -402,39 +402,27 @@
 		<string>multiply</string>
 		<string>equal</string>
 		<string>degree</string>
+		<string>uni0300</string>
+		<string>uni0301</string>
+		<string>uni0302</string>
+		<string>uni0303</string>
+		<string>uni0304</string>
+		<string>uni0306</string>
+		<string>uni0307</string>
+		<string>uni0308</string>
+		<string>uni030A</string>
+		<string>uni030B</string>
+		<string>uni030C</string>
+		<string>uni0326</string>
+		<string>uni0327</string>
+		<string>uni0328</string>
+		<string>uni030C.alt</string>
+		<string>less</string>
+		<string>greater</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>uni1E9E</string>
+		<string>divide</string>
 	</array>
-	<key>public.openTypeCategories</key>
-	<dict>
-		<key>acute</key>
-		<string>base</string>
-		<key>breve</key>
-		<string>base</string>
-		<key>caron</key>
-		<string>base</string>
-		<key>caronSlovak</key>
-		<string>base</string>
-		<key>cedilla</key>
-		<string>base</string>
-		<key>circumflex</key>
-		<string>base</string>
-		<key>commaaccent</key>
-		<string>base</string>
-		<key>dieresis</key>
-		<string>base</string>
-		<key>dotaccent</key>
-		<string>base</string>
-		<key>grave</key>
-		<string>base</string>
-		<key>hungarumlaut</key>
-		<string>base</string>
-		<key>macron</key>
-		<string>base</string>
-		<key>ogonek</key>
-		<string>base</string>
-		<key>ring</key>
-		<string>base</string>
-		<key>tilde</key>
-		<string>base</string>
-	</dict>
 </dict>
 </plist>

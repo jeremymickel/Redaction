@@ -4,7 +4,7 @@
   <unicode hex="00CE"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" yOffset="210"/>
+    <component base="uni0302" xOffset="350.0" yOffset="210.0"/>
   </outline>
   <lib>
     <dict>

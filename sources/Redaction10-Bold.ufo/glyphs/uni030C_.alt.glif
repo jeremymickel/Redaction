@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.alt" format="2">
+  <anchor x="0" y="723.0" name="_slovak"/>
+  <outline>
+    <component base="uni0326" xOffset="3.0" yOffset="779.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>

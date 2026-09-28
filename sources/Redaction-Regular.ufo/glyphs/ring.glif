@@ -2,36 +2,8 @@
 <glyph name="ring" format="2">
   <advance width="500"/>
   <unicode hex="02DA"/>
-  <anchor x="250.0" y="470.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="250" y="710" type="curve" smooth="yes"/>
-      <point x="195" y="710"/>
-      <point x="151" y="671"/>
-      <point x="151" y="615" type="curve" smooth="yes"/>
-      <point x="151" y="564"/>
-      <point x="194" y="523"/>
-      <point x="250" y="523" type="curve" smooth="yes"/>
-      <point x="306" y="523"/>
-      <point x="349" y="564"/>
-      <point x="349" y="615" type="curve" smooth="yes"/>
-      <point x="349" y="671"/>
-      <point x="305" y="710"/>
-    </contour>
-    <contour>
-      <point x="250" y="558" type="curve" smooth="yes"/>
-      <point x="212" y="558"/>
-      <point x="191" y="585"/>
-      <point x="191" y="615" type="curve" smooth="yes"/>
-      <point x="191" y="649"/>
-      <point x="212" y="674"/>
-      <point x="250" y="674" type="curve" smooth="yes"/>
-      <point x="288" y="674"/>
-      <point x="309" y="649"/>
-      <point x="309" y="615" type="curve" smooth="yes"/>
-      <point x="309" y="585"/>
-      <point x="288" y="558"/>
-    </contour>
+    <component base="uni030A" xOffset="250.0"/>
   </outline>
   <lib>
     <dict>

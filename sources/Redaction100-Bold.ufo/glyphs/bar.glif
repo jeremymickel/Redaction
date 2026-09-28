@@ -3,5 +3,17 @@
   <advance width="400"/>
   <unicode hex="007C"/>
   <outline>
+    <contour>
+      <point x="300" y="-200" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="200" y="-200" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>

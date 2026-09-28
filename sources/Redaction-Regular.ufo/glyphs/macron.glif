@@ -2,14 +2,8 @@
 <glyph name="macron" format="2">
   <advance width="500"/>
   <unicode hex="00AF"/>
-  <anchor x="250.0" y="470.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="97" y="650" type="line"/>
-      <point x="97" y="590" type="line"/>
-      <point x="403" y="590" type="line"/>
-      <point x="403" y="650" type="line"/>
-    </contour>
+    <component base="uni0304" xOffset="250.0"/>
   </outline>
   <lib>
     <dict>

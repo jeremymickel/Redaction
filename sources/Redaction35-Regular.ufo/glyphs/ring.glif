@@ -2,32 +2,8 @@
 <glyph name="ring" format="2">
   <advance width="490"/>
   <unicode hex="02DA"/>
-  <anchor x="245.0" y="455" name="_top"/>
   <outline>
-    <contour>
-      <point x="315" y="560" type="line"/>
-      <point x="350" y="560" type="line"/>
-      <point x="350" y="665" type="line"/>
-      <point x="315" y="665" type="line"/>
-      <point x="315" y="700" type="line"/>
-      <point x="175" y="700" type="line"/>
-      <point x="175" y="665" type="line"/>
-      <point x="140" y="665" type="line"/>
-      <point x="140" y="560" type="line"/>
-      <point x="175" y="560" type="line"/>
-      <point x="175" y="525" type="line"/>
-      <point x="315" y="525" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="560" type="line"/>
-      <point x="210" y="595" type="line"/>
-      <point x="175" y="595" type="line"/>
-      <point x="175" y="665" type="line"/>
-      <point x="315" y="665" type="line"/>
-      <point x="315" y="595" type="line"/>
-      <point x="280" y="595" type="line"/>
-      <point x="280" y="560" type="line"/>
-    </contour>
+    <component base="uni030A" xOffset="245.0"/>
   </outline>
   <lib>
     <dict>

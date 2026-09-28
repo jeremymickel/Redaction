@@ -1,21 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccent" format="2">
   <advance width="500"/>
-  <unicode hex="0326"/>
   <note>
 Version created Tue Oct  2 15:38:02 2018
 </note>
-  <anchor x="250.0" y="0.0" name="_bottom"/>
-  <anchor x="250" y="-250" name="_center"/>
   <outline>
-    <contour>
-      <point x="300" y="-50" type="line"/>
-      <point x="200" y="-50" type="line"/>
-      <point x="200" y="-150" type="line"/>
-      <point x="250" y="-150" type="line"/>
-      <point x="250" y="-200" type="line"/>
-      <point x="300" y="-200" type="line"/>
-    </contour>
+    <component base="uni0326" xOffset="250.0"/>
   </outline>
   <lib>
     <dict>

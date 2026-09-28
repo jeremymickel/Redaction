@@ -4,26 +4,8 @@
   <unicode hex="02C7"/>
   <guideline x="490" y="700" angle="0" identifier="V1I1iCzGgP"/>
   <guideline x="247" y="691" angle="0" identifier="hyhrqRnkHL"/>
-  <anchor x="350.0" y="500" name="_top"/>
   <outline>
-    <contour>
-      <point x="500" y="650" type="line"/>
-      <point x="400" y="650" type="line"/>
-      <point x="400" y="600" type="line"/>
-      <point x="350" y="600" type="line"/>
-      <point x="350" y="700" type="line"/>
-      <point x="300" y="700" type="line"/>
-      <point x="300" y="600" type="line"/>
-      <point x="350" y="600" type="line"/>
-      <point x="350" y="550" type="line"/>
-      <point x="450" y="550" type="line"/>
-      <point x="450" y="600" type="line"/>
-      <point x="500" y="600" type="line"/>
-      <point x="500" y="650" type="line"/>
-      <point x="550" y="650" type="line"/>
-      <point x="550" y="700" type="line"/>
-      <point x="500" y="700" type="line"/>
-    </contour>
+    <component base="uni030C" xOffset="350.0"/>
   </outline>
   <lib>
     <dict>

@@ -3,9 +3,8 @@
   <advance width="500"/>
   <unicode hex="00B4"/>
   <guideline x="228" y="728" angle="0" identifier="qxIgpay8ua"/>
-  <anchor x="260.0" y="500.0" name="_top"/>
   <outline>
-    <component base="grave" xScale="-1" xOffset="500"/>
+    <component base="uni0301" xOffset="260.0"/>
   </outline>
   <lib>
     <dict>

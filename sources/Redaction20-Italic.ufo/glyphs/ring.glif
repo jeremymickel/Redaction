@@ -3,45 +3,7 @@
   <advance width="500"/>
   <unicode hex="02DA"/>
   <guideline x="348" y="490" angle="69.0" identifier="vsiLSCtz5X"/>
-  <anchor x="340.0" y="480.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="440" y="560" type="line"/>
-      <point x="460" y="560" type="line"/>
-      <point x="460" y="600" type="line"/>
-      <point x="480" y="600" type="line"/>
-      <point x="480" y="660" type="line"/>
-      <point x="460" y="660" type="line"/>
-      <point x="460" y="700" type="line"/>
-      <point x="420" y="700" type="line"/>
-      <point x="420" y="720" type="line"/>
-      <point x="320" y="720" type="line"/>
-      <point x="320" y="700" type="line"/>
-      <point x="300" y="700" type="line"/>
-      <point x="300" y="660" type="line"/>
-      <point x="280" y="660" type="line"/>
-      <point x="280" y="580" type="line"/>
-      <point x="300" y="580" type="line"/>
-      <point x="300" y="560" type="line"/>
-      <point x="320" y="560" type="line"/>
-      <point x="320" y="540" type="line"/>
-      <point x="440" y="540" type="line"/>
-    </contour>
-    <contour>
-      <point x="340" y="560" type="line"/>
-      <point x="340" y="580" type="line"/>
-      <point x="320" y="580" type="line"/>
-      <point x="320" y="660" type="line"/>
-      <point x="340" y="660" type="line"/>
-      <point x="340" y="680" type="line"/>
-      <point x="420" y="680" type="line"/>
-      <point x="420" y="640" type="line"/>
-      <point x="440" y="640" type="line"/>
-      <point x="440" y="620" type="line"/>
-      <point x="420" y="620" type="line"/>
-      <point x="420" y="580" type="line"/>
-      <point x="380" y="580" type="line"/>
-      <point x="380" y="560" type="line"/>
-    </contour>
+    <component base="uni030A" xOffset="340.0"/>
   </outline>
 </glyph>

@@ -4,32 +4,8 @@
   <unicode hex="02C7"/>
   <guideline x="490" y="700" angle="0" identifier="V1I1iCzGgP"/>
   <guideline x="247" y="691" angle="0" identifier="hyhrqRnkHL"/>
-  <anchor x="350.0" y="490" name="_top"/>
   <outline>
-    <contour>
-      <point x="525" y="700" type="line"/>
-      <point x="490" y="700" type="line"/>
-      <point x="490" y="665" type="line"/>
-      <point x="420" y="665" type="line"/>
-      <point x="420" y="630" type="line"/>
-      <point x="385" y="630" type="line"/>
-      <point x="385" y="665" type="line"/>
-      <point x="315" y="665" type="line"/>
-      <point x="315" y="700" type="line"/>
-      <point x="245" y="700" type="line"/>
-      <point x="245" y="665" type="line"/>
-      <point x="280" y="665" type="line"/>
-      <point x="280" y="595" type="line"/>
-      <point x="315" y="595" type="line"/>
-      <point x="315" y="560" type="line"/>
-      <point x="385" y="560" type="line"/>
-      <point x="385" y="595" type="line"/>
-      <point x="455" y="595" type="line"/>
-      <point x="455" y="630" type="line"/>
-      <point x="490" y="630" type="line"/>
-      <point x="490" y="665" type="line"/>
-      <point x="525" y="665" type="line"/>
-    </contour>
+    <component base="uni030C" xOffset="350.0"/>
   </outline>
   <lib>
     <dict>

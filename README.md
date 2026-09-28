@@ -66,6 +66,12 @@ every push.
   marks, en/em spaces emptied in the Italics.
 - Repository restructured to the Google Fonts upstream layout; the six bitmap
   optical sizes are built unhinted.
+- MINOR: accents rebuilt around combining marks (U+0300 to U+030C, U+0326 to
+  U+0328). The marks hold the outlines and anchors; the legacy spacing accents
+  and all accented letters are composites of them. Mark positioning (`mark`)
+  and soft-dot handling for i and j (`ccmp`) added.
+- MINOR: added less, greater, divide, ordfeminine, ordmasculine and capital
+  sharp s to complete the Google Fonts Latin Core set.
 
 **2021. Version 1.003**
 

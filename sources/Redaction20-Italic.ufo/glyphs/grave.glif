@@ -2,36 +2,8 @@
 <glyph name="grave" format="2">
   <advance width="500"/>
   <unicode hex="0060"/>
-  <anchor x="340.0" y="480" name="_top"/>
   <outline>
-    <contour>
-      <point x="420" y="580" type="line"/>
-      <point x="400" y="580" type="line"/>
-      <point x="400" y="600" type="line"/>
-      <point x="380" y="600" type="line"/>
-      <point x="380" y="640" type="line"/>
-      <point x="360" y="640" type="line"/>
-      <point x="360" y="660" type="line"/>
-      <point x="340" y="660" type="line"/>
-      <point x="340" y="680" type="line"/>
-      <point x="320" y="680" type="line"/>
-      <point x="320" y="700" type="line"/>
-      <point x="300" y="700" type="line"/>
-      <point x="300" y="720" type="line"/>
-      <point x="240" y="720" type="line"/>
-      <point x="240" y="640" type="line"/>
-      <point x="260" y="640" type="line"/>
-      <point x="260" y="620" type="line"/>
-      <point x="300" y="620" type="line"/>
-      <point x="300" y="600" type="line"/>
-      <point x="340" y="600" type="line"/>
-      <point x="340" y="580" type="line"/>
-      <point x="380" y="580" type="line"/>
-      <point x="380" y="560" type="line"/>
-      <point x="400" y="560" type="line"/>
-      <point x="400" y="540" type="line"/>
-      <point x="420" y="540" type="line"/>
-    </contour>
+    <component base="uni0300" xOffset="340.0"/>
   </outline>
   <lib>
     <dict>

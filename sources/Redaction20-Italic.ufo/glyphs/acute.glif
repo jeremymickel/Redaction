@@ -2,38 +2,8 @@
 <glyph name="acute" format="2">
   <advance width="500"/>
   <unicode hex="00B4"/>
-  <anchor x="340.0" y="480.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="280" y="540" type="line"/>
-      <point x="320" y="540" type="line"/>
-      <point x="320" y="560" type="line"/>
-      <point x="340" y="560" type="line"/>
-      <point x="340" y="580" type="line"/>
-      <point x="400" y="580" type="line"/>
-      <point x="400" y="600" type="line"/>
-      <point x="420" y="600" type="line"/>
-      <point x="420" y="620" type="line"/>
-      <point x="460" y="620" type="line"/>
-      <point x="460" y="640" type="line"/>
-      <point x="500" y="640" type="line"/>
-      <point x="500" y="720" type="line"/>
-      <point x="440" y="720" type="line"/>
-      <point x="440" y="700" type="line"/>
-      <point x="400" y="700" type="line"/>
-      <point x="400" y="660" type="line"/>
-      <point x="380" y="660" type="line"/>
-      <point x="380" y="640" type="line"/>
-      <point x="360" y="640" type="line"/>
-      <point x="360" y="620" type="line"/>
-      <point x="340" y="620" type="line"/>
-      <point x="340" y="600" type="line"/>
-      <point x="320" y="600" type="line"/>
-      <point x="320" y="580" type="line"/>
-      <point x="300" y="580" type="line"/>
-      <point x="300" y="560" type="line"/>
-      <point x="280" y="560" type="line"/>
-    </contour>
+    <component base="uni0301" xOffset="340.0"/>
   </outline>
   <lib>
     <dict>
