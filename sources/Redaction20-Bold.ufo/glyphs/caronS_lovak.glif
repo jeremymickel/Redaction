@@ -4,10 +4,4 @@
   <outline>
     <component base="uni030C.alt" xOffset="240"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,0.75</string>
-    </dict>
-  </lib>
 </glyph>

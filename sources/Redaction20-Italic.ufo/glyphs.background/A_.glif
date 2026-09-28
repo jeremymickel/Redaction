@@ -45,8 +45,6 @@ Version created Wed Dec 19 21:21:56 2018
     <dict>
       <key>SBAlt</key>
       <string>right</string>
-      <key>public.markColor</key>
-      <string>1,0.9176,0,1</string>
     </dict>
   </lib>
 </glyph>

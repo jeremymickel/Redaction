@@ -41,10 +41,4 @@ Version created Tue Oct  2 15:38:02 2018
       <point x="175" y="-245" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.8,1</string>
-    </dict>
-  </lib>
 </glyph>

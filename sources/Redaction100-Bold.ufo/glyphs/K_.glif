@@ -38,8 +38,6 @@ Version created Thu Jan  3 11:17:50 2019
     <dict>
       <key>SBAlt</key>
       <string>right</string>
-      <key>public.markColor</key>
-      <string>1,0,1,1</string>
     </dict>
   </lib>
 </glyph>

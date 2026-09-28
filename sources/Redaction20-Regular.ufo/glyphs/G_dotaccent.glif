@@ -6,10 +6,4 @@
     <component base="G"/>
     <component base="uni0307" xOffset="380" yOffset="220"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,0.75</string>
-    </dict>
-  </lib>
 </glyph>

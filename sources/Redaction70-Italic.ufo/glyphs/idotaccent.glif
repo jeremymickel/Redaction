@@ -5,10 +5,4 @@
     <component base="dotlessi"/>
     <component base="uni0307" xOffset="231.00000000000415"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,0.5</string>
-    </dict>
-  </lib>
 </glyph>

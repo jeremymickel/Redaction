@@ -5,10 +5,4 @@
   <outline>
     <component base="uni0300" xScale="-1" xOffset="-35.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,1</string>
-    </dict>
-  </lib>
 </glyph>

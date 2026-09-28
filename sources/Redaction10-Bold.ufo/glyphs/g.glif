@@ -352,8 +352,6 @@
     <dict>
       <key>SBAlt</key>
       <string>right</string>
-      <key>public.markColor</key>
-      <string>1,0.9176,0,1</string>
     </dict>
   </lib>
 </glyph>

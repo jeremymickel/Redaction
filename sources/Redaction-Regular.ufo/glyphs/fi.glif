@@ -74,10 +74,4 @@
       <point x="525" y="480" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.3,0.3,0.53749,0.8</string>
-    </dict>
-  </lib>
 </glyph>

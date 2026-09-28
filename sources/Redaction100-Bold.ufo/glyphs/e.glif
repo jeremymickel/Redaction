@@ -31,10 +31,4 @@ Version created Mon Dec 24 17:33:12 2018
       <point x="400" y="300" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,1,1</string>
-    </dict>
-  </lib>
 </glyph>

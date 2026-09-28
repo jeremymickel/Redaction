@@ -95,10 +95,4 @@ Version created Thu Jan 17 12:19:43 2019
       <point x="346" y="139"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9176,0,1</string>
-    </dict>
-  </lib>
 </glyph>

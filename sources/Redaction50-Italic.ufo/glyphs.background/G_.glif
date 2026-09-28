@@ -62,8 +62,6 @@ Version created Sat Dec 29 18:05:32 2018
       <real>2.0</real>
       <key>com.typemytype.robofont.guideline.magnetic.RpARhh1GaL</key>
       <real>2.0</real>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>
