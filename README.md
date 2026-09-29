@@ -13,7 +13,7 @@ typefaces of American legal documents, but the familiar forms are heightened:
 soft round terminals meet razor-sharp thin strokes, a nod to the eagle of the
 presidential seal holding both the olive branch and the arrows.
 
-![Lowercase a in Redaction Italic, Regular and Bold](documentation/image3.png)
+![Lowercase a in Redaction Italic, Regular and Bold](documentation/image2.png)
 
 ## Families
 
@@ -24,7 +24,7 @@ degraded documents that move through the legal system. The numbered optical
 sizes are not interpolation-compatible with one another, so the project is
 released as static fonts rather than a variable font.
 
-![Capital R in Italic, Regular and Bold across all seven optical sizes](documentation/image2.png)
+![Capital R in Italic, Regular and Bold across all seven optical sizes](documentation/image3.png)
 
 | Family        | Styles                  |
 | ------------- | ----------------------- |
