@@ -1,5 +1,7 @@
 # Redaction
 
+![Redaction set in three optical sizes, from the clean drawing to the coarsest bitmap](documentation/image1.png)
+
 Redaction is a serif typeface designed by Jeremy Mickel (MCKL) with creative
 direction by Forest Young. It was commissioned for *The Redaction*, the 2019
 collaboration between artist Titus Kaphar and poet and lawyer Reginald Dwayne
@@ -11,7 +13,7 @@ typefaces of American legal documents, but the familiar forms are heightened:
 soft round terminals meet razor-sharp thin strokes, a nod to the eagle of the
 presidential seal holding both the olive branch and the arrows.
 
-![Redaction specimen](documentation/image1.png)
+![Lowercase a in Redaction Italic, Regular and Bold](documentation/image3.png)
 
 ## Families
 
@@ -21,6 +23,8 @@ progressively degraded, bitmap-derived forms, referencing the photocopied and
 degraded documents that move through the legal system. The numbered optical
 sizes are not interpolation-compatible with one another, so the project is
 released as static fonts rather than a variable font.
+
+![Capital R in Italic, Regular and Bold across all seven optical sizes](documentation/image2.png)
 
 | Family        | Styles                  |
 | ------------- | ----------------------- |

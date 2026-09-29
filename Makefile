@@ -1,7 +1,7 @@
 SOURCES=$(shell python3 scripts/read-config.py --sources )
 FAMILY=Redaction
-DRAWBOT_SCRIPTS=$(shell ls documentation/*.py)
-DRAWBOT_OUTPUT=$(shell ls documentation/*.py | sed 's/\.py/.png/g')
+DRAWBOT_SCRIPTS=$(shell ls documentation/*.py 2>/dev/null)
+DRAWBOT_OUTPUT=$(shell ls documentation/*.py 2>/dev/null | sed 's/\.py/.png/g')
 
 help:
 	@echo "###"
