@@ -4,15 +4,7 @@
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="300" y="600" type="line"/>
-      <point x="500" y="600" type="line"/>
-      <point x="500" y="700" type="line"/>
-      <point x="300" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="100" type="line"/>
-      <point x="0" y="100" type="line"/>
-      <point x="0" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
       <point x="200" y="0" type="line"/>
       <point x="200" y="400" type="line"/>
       <point x="300" y="400" type="line"/>
@@ -26,10 +18,18 @@
       <point x="100" y="400" type="line"/>
     </contour>
     <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="100" type="line"/>
+      <point x="500" y="100" type="line"/>
       <point x="500" y="500" type="line"/>
       <point x="400" y="500" type="line"/>
-      <point x="400" y="0" type="line"/>
-      <point x="500" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="600" type="line"/>
+      <point x="500" y="600" type="line"/>
+      <point x="500" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
     </contour>
   </outline>
 </glyph>

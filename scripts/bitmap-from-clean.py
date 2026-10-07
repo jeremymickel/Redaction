@@ -182,10 +182,14 @@ def main():
     ap.add_argument("glyphs", nargs="+")
     ap.add_argument("--compare", action="store_true", help="report match with existing bitmap glyphs; write nothing")
     ap.add_argument("--threshold", type=float, default=0.5, help="cell coverage needed to light a pixel (default 0.5)")
+    ap.add_argument("--styles", default="Regular,Bold,Italic", help="comma-separated styles to write, e.g. Regular,Bold")
     args = ap.parse_args()
+    styles = set(args.styles.split(","))
 
     clean = {s: GlyphSet(os.path.join(SOURCES, f"Redaction-{s}.ufo", "glyphs")) for s in ("Regular", "Bold", "Italic")}
     for ufo, style, grid in bitmap_ufos():
+        if style not in styles:
+            continue
         gs = GlyphSet(os.path.join(ufo, "glyphs"))
         report = []
         for name in args.glyphs:
