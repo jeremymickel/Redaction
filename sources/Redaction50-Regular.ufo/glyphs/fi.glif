@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="600"/>
+  <advance width="650"/>
   <unicode hex="FB01"/>
   <outline>
     <contour>
@@ -26,32 +26,11 @@
       <point x="50" y="50" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="0" type="line"/>
-      <point x="600" y="0" type="line"/>
-      <point x="600" y="50" type="line"/>
-      <point x="550" y="50" type="line"/>
-      <point x="550" y="450" type="line"/>
-      <point x="400" y="450" type="line"/>
-      <point x="400" y="400" type="line"/>
-      <point x="450" y="400" type="line"/>
-      <point x="450" y="50" type="line"/>
-      <point x="350" y="50" type="line"/>
-    </contour>
-    <contour>
-      <point x="450" y="550" type="line"/>
-      <point x="500" y="550" type="line"/>
-      <point x="500" y="600" type="line"/>
-      <point x="550" y="600" type="line"/>
-      <point x="550" y="650" type="line"/>
-      <point x="500" y="650" type="line"/>
-      <point x="500" y="700" type="line"/>
-      <point x="450" y="700" type="line"/>
-      <point x="450" y="650" type="line"/>
-      <point x="400" y="650" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="400" y="600" type="line"/>
       <point x="400" y="700" type="line"/>
       <point x="300" y="700" type="line"/>
-      <point x="300" y="600" type="line"/>
-      <point x="450" y="600" type="line"/>
     </contour>
+    <component base="i" xOffset="350"/>
   </outline>
 </glyph>
