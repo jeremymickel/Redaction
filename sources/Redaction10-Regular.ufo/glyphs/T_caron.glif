@@ -2,6 +2,7 @@
 <glyph name="Tcaron" format="2">
   <advance width="660"/>
   <unicode hex="0164"/>
+  <anchor x="329.0" y="923.0" name="top"/>
   <outline>
     <component base="T"/>
     <component base="uni030C" xOffset="329.0" yOffset="233.0"/>

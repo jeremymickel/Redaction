@@ -2,6 +2,7 @@
 <glyph name="Ibreve" format="2">
   <advance width="334"/>
   <unicode hex="012C"/>
+  <anchor x="167.0" y="930.0" name="top"/>
   <outline>
     <component base="I"/>
     <component base="uni0306" xOffset="167.0" yOffset="230.0"/>

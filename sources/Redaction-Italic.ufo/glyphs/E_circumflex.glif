@@ -2,6 +2,7 @@
 <glyph name="Ecircumflex" format="2">
   <advance width="647"/>
   <unicode hex="00CA"/>
+  <anchor x="490.99999999999767" y="915.0" name="top"/>
   <outline>
     <component base="E"/>
     <component base="uni0302" xOffset="490.99999999999767" yOffset="230.0"/>

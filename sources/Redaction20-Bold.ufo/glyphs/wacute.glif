@@ -2,6 +2,7 @@
 <glyph name="wacute" format="2">
   <advance width="900"/>
   <unicode hex="1E83"/>
+  <anchor x="460.0" y="760" name="top"/>
   <outline>
     <component base="w"/>
     <component base="uni0301" xOffset="460.0"/>

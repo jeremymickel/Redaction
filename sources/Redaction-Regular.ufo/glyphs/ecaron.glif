@@ -2,8 +2,9 @@
 <glyph name="ecaron" format="2">
   <advance width="473"/>
   <unicode hex="011B"/>
+  <anchor x="241.0" y="695.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni030C" xOffset="241" yOffset="3"/>
+    <component base="uni030C" xOffset="241.0"/>
   </outline>
 </glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="caronSlovak" format="2">
-  <advance width="500"/>
-  <guideline x="209" y="127" angle="69.0" identifier="daZfyPOZhi"/>
-  <outline>
-    <component base="uni030C.alt" xOffset="429.0"/>
-  </outline>
-</glyph>

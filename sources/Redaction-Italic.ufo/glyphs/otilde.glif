@@ -2,6 +2,7 @@
 <glyph name="otilde" format="2">
   <advance width="503"/>
   <unicode hex="00F5"/>
+  <anchor x="301.0000000000081" y="695" name="top"/>
   <outline>
     <component base="o"/>
     <component base="uni0303" xOffset="301.0000000000081"/>

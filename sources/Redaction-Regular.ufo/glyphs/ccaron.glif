@@ -2,8 +2,9 @@
 <glyph name="ccaron" format="2">
   <advance width="442"/>
   <unicode hex="010D"/>
+  <anchor x="257.0" y="695" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="uni030C" xOffset="257" yOffset="3"/>
+    <component base="uni030C" xOffset="257.0"/>
   </outline>
 </glyph>

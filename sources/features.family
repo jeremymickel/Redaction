@@ -20,6 +20,15 @@ feature ccmp {
     lookup soft_dot {
         sub @soft_dotted' @marks_above by @dotless;
     } soft_dot;
+    # caron takes the vertical (Slovak) form after d, l, t and L
+    lookup caron_alt {
+        sub [d l t L] uni030C' by uni030C.alt;
+    } caron_alt;
+    # i with ogonek loses its dot under a mark: split it into dotless i + combining ogonek
+    lookup iogonek_split {
+        sub iogonek by dotlessi uni0328;
+    } iogonek_split;
+    sub iogonek' lookup iogonek_split @marks_above;
 } ccmp;
 
 feature locl {

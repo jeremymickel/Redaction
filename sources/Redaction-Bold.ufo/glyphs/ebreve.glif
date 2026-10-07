@@ -2,6 +2,7 @@
 <glyph name="ebreve" format="2">
   <advance width="518"/>
   <unicode hex="0115"/>
+  <anchor x="275.0" y="738" name="top"/>
   <outline>
     <component base="e"/>
     <component base="uni0306" xOffset="275.0"/>

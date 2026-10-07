@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucaron" format="2">
+  <advance width="760"/>
+  <unicode hex="01D3"/>
+  <anchor x="404.0" y="920.0" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni030C" xOffset="400" yOffset="230"/>
+  </outline>
+</glyph>

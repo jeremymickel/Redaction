@@ -36,9 +36,6 @@
       <point x="414" y="568"/>
       <point x="436" y="584"/>
       <point x="442" y="613" type="curve"/>
-      <point x="442" y="610"/>
-      <point x="442" y="606"/>
-      <point x="442" y="602" type="curve"/>
       <point x="442" y="95" type="line" smooth="yes"/>
       <point x="442" y="56"/>
       <point x="427" y="35"/>

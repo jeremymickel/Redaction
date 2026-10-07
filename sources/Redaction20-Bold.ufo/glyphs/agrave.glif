@@ -2,8 +2,9 @@
 <glyph name="agrave" format="2">
   <advance width="540"/>
   <unicode hex="00E0"/>
+  <anchor x="240.0" y="760.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="uni0300" xOffset="240.0" yOffset="7.0"/>
+    <component base="uni0300" xOffset="240.0"/>
   </outline>
 </glyph>

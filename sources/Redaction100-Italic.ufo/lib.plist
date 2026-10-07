@@ -1980,10 +1980,8 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
-		<string>NULL</string>
-		<string>CR</string>
 		<string>space</string>
-		<string>nbspace</string>
+		<string>uni00A0</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -2252,8 +2250,6 @@
 		<string>ring</string>
 		<string>hungarumlaut</string>
 		<string>caron</string>
-		<string>caronSlovak</string>
-		<string>commaaccent</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
 		<string>period</string>
@@ -2361,9 +2357,18 @@
 		<string>ordmasculine</string>
 		<string>uni1E9E</string>
 		<string>divide</string>
+		<string>uni2028</string>
+		<string>uni2029</string>
+		<string>Acaron</string>
+		<string>acaron</string>
+		<string>Ucaron</string>
+		<string>ucaron</string>
+		<string>Etilde</string>
+		<string>etilde</string>
+		<string>Oslashacute</string>
+		<string>oslashacute</string>
+		<string>uni25CC</string>
 	</array>
-	<key>public.postscriptNames</key>
-	<dict/>
 	<key>public.skipExportGlyphs</key>
 	<array/>
 </dict>

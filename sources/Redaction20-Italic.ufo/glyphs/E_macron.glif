@@ -2,6 +2,7 @@
 <glyph name="Emacron" format="2">
   <advance width="640"/>
   <unicode hex="0112"/>
+  <anchor x="500.0" y="860.0" name="top"/>
   <outline>
     <component base="E"/>
     <component base="uni0304" xOffset="500.0" yOffset="220.0"/>

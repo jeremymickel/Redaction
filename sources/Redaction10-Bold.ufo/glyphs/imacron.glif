@@ -2,6 +2,7 @@
 <glyph name="imacron" format="2">
   <advance width="320"/>
   <unicode hex="012B"/>
+  <anchor x="162.0" y="700" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0304" xOffset="162.0"/>

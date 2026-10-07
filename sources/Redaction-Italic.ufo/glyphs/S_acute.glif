@@ -2,6 +2,7 @@
 <glyph name="Sacute" format="2">
   <advance width="545"/>
   <unicode hex="015A"/>
+  <anchor x="397.9999999999809" y="950.0" name="top"/>
   <outline>
     <component base="S"/>
     <component base="uni0301" xOffset="397.9999999999809" yOffset="230.0"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
   <advance width="280"/>
+  <anchor x="221.00000000000415" y="684" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0307" xOffset="221.00000000000415"/>

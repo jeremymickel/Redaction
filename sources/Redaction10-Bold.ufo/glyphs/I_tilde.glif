@@ -2,6 +2,7 @@
 <glyph name="Itilde" format="2">
   <advance width="390"/>
   <unicode hex="0128"/>
+  <anchor x="195.0" y="937.0" name="top"/>
   <outline>
     <component base="I"/>
     <component base="uni0303" xOffset="195.0" yOffset="207.0"/>

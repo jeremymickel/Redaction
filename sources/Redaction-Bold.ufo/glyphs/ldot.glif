@@ -2,6 +2,7 @@
 <glyph name="ldot" format="2">
   <advance width="322"/>
   <unicode hex="0140"/>
+  <anchor x="342" y="412" name="top"/>
   <outline>
     <component base="l"/>
     <component base="uni0307" xOffset="342" yOffset="-304"/>

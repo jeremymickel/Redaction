@@ -2,6 +2,7 @@
 <glyph name="wgrave" format="2">
   <advance width="901"/>
   <unicode hex="1E81"/>
+  <anchor x="462.0" y="754" name="top"/>
   <outline>
     <component base="w"/>
     <component base="uni0300" xOffset="462.0"/>

@@ -2,6 +2,7 @@
 <glyph name="uni0301" format="2">
   <unicode hex="0301"/>
   <anchor x="0.0" y="500" name="_top"/>
+  <anchor x="0.0" y="800" name="top"/>
   <outline>
     <component base="uni0300" xScale="-1"/>
   </outline>

@@ -2,6 +2,7 @@
 <glyph name="ibreve" format="2">
   <advance width="320"/>
   <unicode hex="012D"/>
+  <anchor x="162.0" y="740" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0306" xOffset="162.0"/>

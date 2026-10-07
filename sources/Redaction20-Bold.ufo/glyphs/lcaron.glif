@@ -2,6 +2,7 @@
 <glyph name="lcaron" format="2">
   <advance width="340"/>
   <unicode hex="013E"/>
+  <anchor x="340" y="720" name="top"/>
   <outline>
     <component base="l"/>
     <component base="uni030C.alt" xOffset="340" yOffset="-20"/>

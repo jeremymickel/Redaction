@@ -2,6 +2,7 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="700"/>
   <unicode hex="0150"/>
+  <anchor x="490.0" y="910.0" name="top"/>
   <outline>
     <component base="O"/>
     <component base="uni030B" xOffset="490.0" yOffset="210.0"/>

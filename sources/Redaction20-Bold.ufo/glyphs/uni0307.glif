@@ -3,6 +3,7 @@
   <unicode hex="0307"/>
   <anchor x="0" y="500.0" name="_top"/>
   <anchor x="0" y="640.0" name="_dot"/>
+  <anchor x="0" y="720" name="top"/>
   <outline>
     <contour>
       <point x="-60" y="580" type="line"/>

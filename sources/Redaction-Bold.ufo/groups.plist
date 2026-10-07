@@ -157,6 +157,7 @@
       <string>Aogonek</string>
       <string>Aring</string>
       <string>Atilde</string>
+      <string>Acaron</string>
     </array>
     <key>public.kern1.B</key>
     <array>
@@ -185,6 +186,7 @@
       <string>Eogonek</string>
       <string>AE</string>
       <string>OE</string>
+      <string>Etilde</string>
     </array>
     <key>public.kern1.F</key>
     <array>
@@ -249,6 +251,7 @@
       <string>Dcroat</string>
       <string>Eth</string>
       <string>Oslash</string>
+      <string>Oslashacute</string>
     </array>
     <key>public.kern1.P</key>
     <array>
@@ -294,6 +297,7 @@
       <string>Uring</string>
       <string>Utilde</string>
       <string>IJ</string>
+      <string>Ucaron</string>
     </array>
     <key>public.kern1.V</key>
     <array>
@@ -446,6 +450,7 @@
       <string>eogonek</string>
       <string>ae</string>
       <string>oe</string>
+      <string>etilde</string>
     </array>
     <key>public.kern1.f</key>
     <array>
@@ -517,6 +522,8 @@
       <string>utilde</string>
       <string>ncommaaccent</string>
       <string>hbar</string>
+      <string>acaron</string>
+      <string>ucaron</string>
     </array>
     <key>public.kern1.o</key>
     <array>
@@ -534,6 +541,7 @@
       <string>eth</string>
       <string>oslash</string>
       <string>thorn</string>
+      <string>oslashacute</string>
     </array>
     <key>public.kern1.q</key>
     <array>
@@ -607,6 +615,7 @@
       <string>Aogonek</string>
       <string>Aring</string>
       <string>Atilde</string>
+      <string>Acaron</string>
     </array>
     <key>public.kern2.H</key>
     <array>
@@ -661,6 +670,7 @@
       <string>Ncommaaccent</string>
       <string>Rcommaaccent</string>
       <string>Thorn</string>
+      <string>Etilde</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -693,6 +703,7 @@
       <string>Gcommaaccent</string>
       <string>OE</string>
       <string>Oslash</string>
+      <string>Oslashacute</string>
     </array>
     <key>public.kern2.S</key>
     <array>
@@ -724,6 +735,7 @@
       <string>Uogonek</string>
       <string>Uring</string>
       <string>Utilde</string>
+      <string>Ucaron</string>
     </array>
     <key>public.kern2.V</key>
     <array>
@@ -867,6 +879,7 @@
       <string>aring</string>
       <string>atilde</string>
       <string>ae</string>
+      <string>acaron</string>
     </array>
     <key>public.kern2.b</key>
     <array>
@@ -969,6 +982,8 @@
       <string>oe</string>
       <string>oslash</string>
       <string>dcroat</string>
+      <string>etilde</string>
+      <string>oslashacute</string>
     </array>
     <key>public.kern2.p</key>
     <array>
@@ -1004,6 +1019,7 @@
       <string>uogonek</string>
       <string>uring</string>
       <string>utilde</string>
+      <string>ucaron</string>
     </array>
     <key>public.kern2.v</key>
     <array>

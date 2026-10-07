@@ -2,6 +2,7 @@
 <glyph name="Ygrave" format="2">
   <advance width="740"/>
   <unicode hex="1EF2"/>
+  <anchor x="401.0" y="957.0" name="top"/>
   <outline>
     <component base="Y"/>
     <component base="uni0300" xOffset="401.0" yOffset="207.0"/>

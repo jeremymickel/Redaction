@@ -2,8 +2,9 @@
 <glyph name="Rcaron" format="2">
   <advance width="694"/>
   <unicode hex="0158"/>
+  <anchor x="494.0000000000217" y="925.0" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="uni030C" xOffset="494.0000000000217" yOffset="233.0"/>
+    <component base="uni030C" xOffset="494.0000000000217" yOffset="230.0"/>
   </outline>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="Edotaccent" format="2">
   <advance width="647"/>
   <unicode hex="0116"/>
+  <anchor x="490.99999999999767" y="914.0" name="top"/>
   <outline>
     <component base="E"/>
     <component base="uni0307" xOffset="490.99999999999767" yOffset="230.0"/>

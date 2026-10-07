@@ -2,6 +2,7 @@
 <glyph name="icircumflex" format="2">
   <advance width="280"/>
   <unicode hex="00EE"/>
+  <anchor x="220.0" y="680" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0302" xOffset="220.0"/>

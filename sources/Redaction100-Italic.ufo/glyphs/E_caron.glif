@@ -2,6 +2,7 @@
 <glyph name="Ecaron" format="2">
   <advance width="600"/>
   <unicode hex="011A"/>
+  <anchor x="500.0" y="1000.0" name="top"/>
   <outline>
     <component base="E"/>
     <component base="uni030C" xOffset="500.0" yOffset="200.0"/>

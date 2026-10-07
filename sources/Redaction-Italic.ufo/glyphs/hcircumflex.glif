@@ -2,6 +2,7 @@
 <glyph name="hcircumflex" format="2">
   <advance width="545"/>
   <unicode hex="0125"/>
+  <anchor x="305.00000000002643" y="915.0" name="top"/>
   <outline>
     <component base="h"/>
     <component base="uni0302" xOffset="305.00000000002643" yOffset="230.0"/>

@@ -2,6 +2,7 @@
 <glyph name="uni0304" format="2">
   <unicode hex="0304"/>
   <anchor x="0.0" y="493.0" name="_top"/>
+  <anchor x="0.0" y="695" name="top"/>
   <outline>
     <contour>
       <point x="-168.0" y="695" type="line"/>

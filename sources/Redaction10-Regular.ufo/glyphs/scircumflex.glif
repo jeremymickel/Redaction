@@ -2,6 +2,7 @@
 <glyph name="scircumflex" format="2">
   <advance width="410"/>
   <unicode hex="015D"/>
+  <anchor x="195.0" y="680" name="top"/>
   <outline>
     <component base="s"/>
     <component base="uni0302" xOffset="195.0"/>

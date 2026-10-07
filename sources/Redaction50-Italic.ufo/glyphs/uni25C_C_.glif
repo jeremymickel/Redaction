@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25CC" format="2">
+  <advance width="900"/>
+  <unicode hex="25CC"/>
+  <anchor x="750" y="700" name="top"/>
+  <anchor x="500" y="0" name="bottom"/>
+  <outline>
+    <component base="period" xOffset="650" yOffset="600"/>
+    <component base="period" xOffset="500" yOffset="550"/>
+    <component base="period" xOffset="350" yOffset="450"/>
+    <component base="period" xOffset="250" yOffset="300"/>
+    <component base="period" xOffset="200" yOffset="150"/>
+    <component base="period" xOffset="300" yOffset="50"/>
+    <component base="period" xOffset="400"/>
+    <component base="period" xOffset="600" yOffset="50"/>
+    <component base="period" xOffset="750" yOffset="150"/>
+    <component base="period" xOffset="850" yOffset="300"/>
+    <component base="period" xOffset="850" yOffset="450"/>
+    <component base="period" xOffset="800" yOffset="550"/>
+  </outline>
+</glyph>
