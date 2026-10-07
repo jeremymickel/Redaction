@@ -2,20 +2,18 @@
 <glyph name="uni25CC" format="2">
   <advance width="923"/>
   <unicode hex="25CC"/>
-  <anchor x="454" y="700" name="top"/>
-  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="462" y="700" name="top"/>
+  <anchor x="462" y="0" name="bottom"/>
   <outline>
-    <component base="period" xOffset="278" yOffset="587"/>
-    <component base="period" xOffset="131" yOffset="548"/>
-    <component base="period" xOffset="23" yOffset="440"/>
-    <component base="period" xOffset="-16" yOffset="294"/>
-    <component base="period" xOffset="23" yOffset="147"/>
-    <component base="period" xOffset="131" yOffset="39"/>
-    <component base="period" xOffset="277"/>
-    <component base="period" xOffset="424" yOffset="39"/>
-    <component base="period" xOffset="532" yOffset="147"/>
-    <component base="period" xOffset="571" yOffset="293"/>
-    <component base="period" xOffset="532" yOffset="440"/>
-    <component base="period" xOffset="424" yOffset="548"/>
+    <component base="period" xOffset="342" yOffset="587"/>
+    <component base="period" xOffset="169" yOffset="531"/>
+    <component base="period" xOffset="62" yOffset="384"/>
+    <component base="period" xOffset="62" yOffset="203"/>
+    <component base="period" xOffset="169" yOffset="56"/>
+    <component base="period" xOffset="341"/>
+    <component base="period" xOffset="514" yOffset="56"/>
+    <component base="period" xOffset="621" yOffset="203"/>
+    <component base="period" xOffset="621" yOffset="384"/>
+    <component base="period" xOffset="514" yOffset="531"/>
   </outline>
 </glyph>
