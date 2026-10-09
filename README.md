@@ -50,11 +50,18 @@ pip install -r requirements.txt
 make build
 ```
 
-`make build` runs `gftools builder sources/config.yaml` and writes TTF, OTF and
-WOFF2 files to `fonts/`. `make test` runs the
-[Fontspector](https://fonttools.github.io/fontspector/) Google Fonts profile,
-and `make proof` generates HTML proofs. GitHub Actions runs the same steps on
-every push.
+`make build` runs gftools-builder for both configs in `sources/` (the base
+family is hinted, the six bitmap sizes are not) and writes TTF, OTF and WOFF2
+files to `fonts/`. `make test` runs the
+[Fontspector](https://fonttools.github.io/fontspector/) Google Fonts profile
+once per family and writes reports to `out/fontspector/`; `make proof`
+generates HTML proofs. GitHub Actions runs the same steps on every push and
+publishes the reports to the project's GitHub Pages site.
+
+Fontspector is a single binary. Download the build for your platform from the
+[Fontspector releases](https://github.com/fonttools/fontspector/releases) and
+put it on your `PATH`, or install it with `cargo binstall fontspector` if you
+have Rust.
 
 ## Changelog
 
