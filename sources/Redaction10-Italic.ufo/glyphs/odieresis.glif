@@ -2,9 +2,9 @@
 <glyph name="odieresis" format="2">
   <advance width="500"/>
   <unicode hex="00F6"/>
-  <anchor x="299.0" y="680" name="top"/>
+  <anchor x="300" y="680" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="uni0308" xOffset="299.0"/>
+    <component base="uni0308" xOffset="300"/>
   </outline>
 </glyph>

@@ -2,20 +2,20 @@
 <glyph name="uni0307" format="2">
   <unicode hex="0307"/>
   <anchor x="0.0" y="480" name="_top"/>
-  <anchor x="38.0" y="635" name="_dot"/>
+  <anchor x="40" y="640" name="_dot"/>
   <anchor x="0.0" y="680" name="top"/>
   <outline>
     <contour>
-      <point x="-25.0" y="580" type="line"/>
-      <point x="75.0" y="580" type="line"/>
-      <point x="75.0" y="620" type="line"/>
-      <point x="95.0" y="620" type="line"/>
-      <point x="95.0" y="680" type="line"/>
-      <point x="15.0" y="680" type="line"/>
-      <point x="15.0" y="660" type="line"/>
-      <point x="-5.0" y="660" type="line"/>
-      <point x="-5.0" y="620" type="line"/>
-      <point x="-25.0" y="620" type="line"/>
+      <point x="-40" y="580" type="line"/>
+      <point x="60" y="580" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="80" y="620" type="line"/>
+      <point x="80" y="680" type="line"/>
+      <point x="0" y="680" type="line"/>
+      <point x="0" y="660" type="line"/>
+      <point x="-20" y="660" type="line"/>
+      <point x="-20" y="620" type="line"/>
+      <point x="-40" y="620" type="line"/>
     </contour>
   </outline>
 </glyph>

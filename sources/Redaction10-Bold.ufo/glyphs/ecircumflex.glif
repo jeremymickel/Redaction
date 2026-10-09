@@ -2,9 +2,9 @@
 <glyph name="ecircumflex" format="2">
   <advance width="520"/>
   <unicode hex="00EA"/>
-  <anchor x="276.0" y="730" name="top"/>
+  <anchor x="280" y="730" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni0302" xOffset="276.0"/>
+    <component base="uni0302" xOffset="280"/>
   </outline>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="umacron" format="2">
   <advance width="580"/>
   <unicode hex="016B"/>
-  <anchor x="285.0" y="650" name="top"/>
+  <anchor x="290" y="650" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="uni0304" xOffset="285.0"/>
+    <component base="uni0304" xOffset="290"/>
   </outline>
 </glyph>

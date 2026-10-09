@@ -4,7 +4,7 @@
   <unicode hex="00B4"/>
   <guideline x="228" y="728" angle="0" identifier="qxIgpay8ua"/>
   <outline>
-    <component base="uni0301" xOffset="260.0"/>
+    <component base="uni0301" xOffset="260"/>
   </outline>
   <lib>
     <dict>

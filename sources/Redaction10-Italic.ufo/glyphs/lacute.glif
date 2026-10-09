@@ -2,9 +2,9 @@
 <glyph name="lacute" format="2">
   <advance width="280"/>
   <unicode hex="013A"/>
-  <anchor x="317.0" y="950.0" name="top"/>
+  <anchor x="320" y="950.0" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="uni0301" xOffset="317.0" yOffset="230.0"/>
+    <component base="uni0301" xOffset="320" yOffset="230.0"/>
   </outline>
 </glyph>

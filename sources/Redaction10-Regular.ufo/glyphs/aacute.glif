@@ -2,9 +2,9 @@
 <glyph name="aacute" format="2">
   <advance width="500"/>
   <unicode hex="00E1"/>
-  <anchor x="228.0" y="720" name="top"/>
+  <anchor x="230" y="720" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="uni0301" xOffset="228.0"/>
+    <component base="uni0301" xOffset="230"/>
   </outline>
 </glyph>

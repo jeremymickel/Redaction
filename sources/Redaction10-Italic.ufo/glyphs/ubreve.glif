@@ -2,9 +2,9 @@
 <glyph name="ubreve" format="2">
   <advance width="540"/>
   <unicode hex="016D"/>
-  <anchor x="359.0" y="690" name="top"/>
+  <anchor x="360" y="690" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="uni0306" xOffset="359.0"/>
+    <component base="uni0306" xOffset="360"/>
   </outline>
 </glyph>

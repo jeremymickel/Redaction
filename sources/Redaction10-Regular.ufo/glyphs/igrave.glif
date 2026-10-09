@@ -2,9 +2,9 @@
 <glyph name="igrave" format="2">
   <advance width="290"/>
   <unicode hex="00EC"/>
-  <anchor x="146.0" y="720" name="top"/>
+  <anchor x="150" y="720" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0300" xOffset="146.0"/>
+    <component base="uni0300" xOffset="150"/>
   </outline>
 </glyph>

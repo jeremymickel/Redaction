@@ -9,8 +9,8 @@ Version created Thu Jan  3 14:08:26 2019
   <guideline x="154.72243494126025" y="285" angle="0" identifier="9tR2GWBGUR"/>
   <guideline x="258.7965745710842" y="634" angle="106.0" identifier="RTJvehtSGE"/>
   <guideline x="258.7965745710842" y="634" angle="0" identifier="e7RsL3G9s1"/>
-  <anchor x="123.0" y="0" name="bottom"/>
-  <anchor x="231.0" y="500" name="top"/>
+  <anchor x="100" y="0" name="bottom"/>
+  <anchor x="250" y="500" name="top"/>
   <outline>
     <contour>
       <point x="300" y="500" type="line"/>

@@ -5,8 +5,8 @@
   <anchor x="350.0" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="212" y="-50" type="line"/>
-      <point x="212" y="0" type="line"/>
+      <point x="200" y="-50" type="line"/>
+      <point x="200" y="0" type="line"/>
       <point x="250" y="0" type="line"/>
       <point x="250" y="50" type="line"/>
       <point x="150" y="50" type="line"/>
@@ -37,16 +37,16 @@
       <point x="50" y="50" type="line"/>
       <point x="-50" y="50" type="line"/>
       <point x="-50" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
-      <point x="162" y="-50" type="line"/>
-      <point x="112" y="-50" type="line"/>
-      <point x="112" y="-100" type="line"/>
-      <point x="62" y="-100" type="line"/>
-      <point x="62" y="-200" type="line"/>
-      <point x="212" y="-200" type="line"/>
-      <point x="212" y="-150" type="line"/>
-      <point x="162" y="-150" type="line"/>
-      <point x="162" y="-50" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="-50" type="line"/>
+      <point x="100" y="-50" type="line"/>
+      <point x="100" y="-100" type="line"/>
+      <point x="50" y="-100" type="line"/>
+      <point x="50" y="-200" type="line"/>
+      <point x="200" y="-200" type="line"/>
+      <point x="200" y="-150" type="line"/>
+      <point x="150" y="-150" type="line"/>
+      <point x="150" y="-50" type="line"/>
     </contour>
   </outline>
 </glyph>

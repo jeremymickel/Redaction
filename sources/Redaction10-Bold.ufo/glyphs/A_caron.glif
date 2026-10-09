@@ -2,7 +2,7 @@
 <glyph name="Acaron" format="2">
   <advance width="760"/>
   <unicode hex="01CD"/>
-  <anchor x="379.0" y="957.0" name="top"/>
+  <anchor x="380" y="960" name="top"/>
   <outline>
     <component base="A"/>
     <component base="uni030C" xOffset="380" yOffset="210"/>

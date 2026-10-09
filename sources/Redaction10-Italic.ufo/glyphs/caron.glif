@@ -5,7 +5,7 @@
   <guideline x="490" y="700" angle="0" identifier="V1I1iCzGgP"/>
   <guideline x="247" y="691" angle="0" identifier="hyhrqRnkHL"/>
   <outline>
-    <component base="uni030C" xOffset="340.0"/>
+    <component base="uni030C" xOffset="340"/>
   </outline>
   <lib>
     <dict>

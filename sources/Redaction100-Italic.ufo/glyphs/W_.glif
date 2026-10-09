@@ -5,7 +5,7 @@
   <note>
 Version created Wed Dec 19 21:21:56 2018
 </note>
-  <anchor x="599.0" y="700" name="top"/>
+  <anchor x="600" y="700" name="top"/>
   <outline>
     <contour>
       <point x="1100" y="600" type="line"/>

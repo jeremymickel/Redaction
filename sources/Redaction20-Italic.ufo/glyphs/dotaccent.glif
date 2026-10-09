@@ -4,6 +4,6 @@
   <unicode hex="02D9"/>
   <guideline x="356" y="512" angle="69.0" identifier="k0U6jmTShH"/>
   <outline>
-    <component base="uni0307" xOffset="365.0"/>
+    <component base="uni0307" xOffset="360"/>
   </outline>
 </glyph>

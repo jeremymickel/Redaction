@@ -2,9 +2,9 @@
 <glyph name="Lcaron" format="2">
   <advance width="645"/>
   <unicode hex="013D"/>
-  <anchor x="502" y="710" name="top"/>
+  <anchor x="500" y="710" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="uni030C.alt" xOffset="502"/>
+    <component base="uni030C.alt" xOffset="500"/>
   </outline>
 </glyph>

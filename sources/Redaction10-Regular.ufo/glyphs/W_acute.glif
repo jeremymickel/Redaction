@@ -2,9 +2,9 @@
 <glyph name="Wacute" format="2">
   <advance width="1020"/>
   <unicode hex="1E82"/>
-  <anchor x="515.0" y="950.0" name="top"/>
+  <anchor x="520" y="950.0" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="uni0301" xOffset="515.0" yOffset="230.0"/>
+    <component base="uni0301" xOffset="520" yOffset="230.0"/>
   </outline>
 </glyph>

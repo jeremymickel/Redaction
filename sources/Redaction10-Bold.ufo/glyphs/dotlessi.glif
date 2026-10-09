@@ -5,8 +5,8 @@
   <note>
 Version created Thu Jan  3 14:08:26 2019
 </note>
-  <anchor x="304" y="0" name="bottom"/>
-  <anchor x="162.0" y="493.0" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="160" y="490" name="top"/>
   <outline>
     <contour>
       <point x="10" y="450" type="line"/>

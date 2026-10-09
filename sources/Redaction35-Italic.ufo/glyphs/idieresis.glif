@@ -2,9 +2,9 @@
 <glyph name="idieresis" format="2">
   <advance width="280"/>
   <unicode hex="00EF"/>
-  <anchor x="221.0" y="700.0" name="top"/>
+  <anchor x="210" y="700.0" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0308" xOffset="221.0"/>
+    <component base="uni0308" xOffset="210"/>
   </outline>
 </glyph>

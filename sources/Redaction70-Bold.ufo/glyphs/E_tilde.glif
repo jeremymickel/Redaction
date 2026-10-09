@@ -2,7 +2,7 @@
 <glyph name="Etilde" format="2">
   <advance width="700"/>
   <unicode hex="1EBC"/>
-  <anchor x="385.0" y="910.0" name="top"/>
+  <anchor x="420" y="910.0" name="top"/>
   <anchor x="630.0" y="0" name="bottom"/>
   <outline>
     <component base="E"/>

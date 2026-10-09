@@ -2,9 +2,9 @@
 <glyph name="Icircumflex" format="2">
   <advance width="330"/>
   <unicode hex="00CE"/>
-  <anchor x="165.0" y="910.0" name="top"/>
+  <anchor x="170" y="910.0" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="uni0302" xOffset="165.0" yOffset="230.0"/>
+    <component base="uni0302" xOffset="170" yOffset="230.0"/>
   </outline>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="ntilde" format="2">
   <advance width="580"/>
   <unicode hex="00F1"/>
-  <anchor x="297.0" y="690" name="top"/>
+  <anchor x="300" y="690" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="uni0303" xOffset="297.0"/>
+    <component base="uni0303" xOffset="300"/>
   </outline>
 </glyph>

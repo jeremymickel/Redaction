@@ -4,8 +4,8 @@
   <unicode hex="0119"/>
   <outline>
     <contour>
-      <point x="262" y="-50" type="line"/>
-      <point x="262" y="0" type="line"/>
+      <point x="250" y="-50" type="line"/>
+      <point x="250" y="0" type="line"/>
       <point x="300" y="0" type="line"/>
       <point x="300" y="50" type="line"/>
       <point x="150" y="50" type="line"/>
@@ -44,16 +44,16 @@
       <point x="50" y="50" type="line"/>
       <point x="100" y="50" type="line"/>
       <point x="100" y="0" type="line"/>
-      <point x="212" y="0" type="line"/>
-      <point x="212" y="-50" type="line"/>
-      <point x="162" y="-50" type="line"/>
-      <point x="162" y="-100" type="line"/>
-      <point x="112" y="-100" type="line"/>
-      <point x="112" y="-200" type="line"/>
-      <point x="262" y="-200" type="line"/>
-      <point x="262" y="-150" type="line"/>
-      <point x="212" y="-150" type="line"/>
-      <point x="212" y="-50" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="-50" type="line"/>
+      <point x="150" y="-50" type="line"/>
+      <point x="150" y="-100" type="line"/>
+      <point x="100" y="-100" type="line"/>
+      <point x="100" y="-200" type="line"/>
+      <point x="250" y="-200" type="line"/>
+      <point x="250" y="-150" type="line"/>
+      <point x="200" y="-150" type="line"/>
+      <point x="200" y="-50" type="line"/>
     </contour>
     <contour>
       <point x="350" y="100" type="line"/>

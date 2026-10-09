@@ -2,9 +2,9 @@
 <glyph name="Zcaron" format="2">
   <advance width="600"/>
   <unicode hex="017D"/>
-  <anchor x="448.0" y="923.0" name="top"/>
+  <anchor x="450" y="920" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="uni030C" xOffset="448.0" yOffset="233.0"/>
+    <component base="uni030C" xOffset="450" yOffset="230"/>
   </outline>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="uring" format="2">
   <advance width="580"/>
   <unicode hex="016F"/>
-  <anchor x="285.0" y="710" name="top"/>
+  <anchor x="290" y="710" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="uni030A" xOffset="285.0"/>
+    <component base="uni030A" xOffset="290"/>
   </outline>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="imacron" format="2">
   <advance width="280"/>
   <unicode hex="012B"/>
-  <anchor x="221.0" y="650" name="top"/>
+  <anchor x="220" y="650" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0304" xOffset="221.0"/>
+    <component base="uni0304" xOffset="220"/>
   </outline>
 </glyph>

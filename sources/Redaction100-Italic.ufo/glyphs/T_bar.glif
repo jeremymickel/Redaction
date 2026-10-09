@@ -27,9 +27,7 @@
       <point x="100" y="500" type="line"/>
       <point x="200" y="500" type="line"/>
       <point x="200" y="600" type="line"/>
-      <point x="300" y="600" type="line"/>
-      <point x="300" y="601" type="line"/>
-      <point x="400" y="601" type="line"/>
+      <point x="400" y="600" type="line"/>
       <point x="400" y="500" type="line"/>
       <point x="300" y="500" type="line"/>
       <point x="300" y="400" type="line"/>

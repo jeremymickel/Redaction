@@ -2,9 +2,9 @@
 <glyph name="Utilde" format="2">
   <advance width="800"/>
   <unicode hex="0168"/>
-  <anchor x="443.0" y="937.0" name="top"/>
+  <anchor x="440" y="940" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="uni0303" xOffset="443.0" yOffset="207.0"/>
+    <component base="uni0303" xOffset="440" yOffset="210"/>
   </outline>
 </glyph>

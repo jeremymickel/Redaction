@@ -2,9 +2,9 @@
 <glyph name="jcircumflex" format="2">
   <advance width="250"/>
   <unicode hex="0135"/>
-  <anchor x="206.0" y="700.0" name="top"/>
+  <anchor x="200" y="700.0" name="top"/>
   <outline>
     <component base="dotlessj"/>
-    <component base="uni0302" xOffset="206.0"/>
+    <component base="uni0302" xOffset="200"/>
   </outline>
 </glyph>

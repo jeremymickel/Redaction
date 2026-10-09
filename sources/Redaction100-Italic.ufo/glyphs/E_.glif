@@ -6,7 +6,7 @@
 Version created Mon Dec 24 17:14:57 2018
 </note>
   <anchor x="500.0" y="700" name="top"/>
-  <anchor x="500.0" y="2" name="bottom"/>
+  <anchor x="500.0" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="600" y="500" type="line"/>

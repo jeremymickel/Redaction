@@ -21,10 +21,10 @@
       <point x="140" y="350" type="line"/>
       <point x="210" y="350" type="line"/>
       <point x="210" y="420" type="line"/>
-      <point x="279" y="420" type="line"/>
-      <point x="279" y="490" type="line"/>
-      <point x="209" y="490" type="line"/>
-      <point x="209" y="420" type="line"/>
+      <point x="280" y="420" type="line"/>
+      <point x="280" y="490" type="line"/>
+      <point x="210" y="490" type="line"/>
+      <point x="210" y="420" type="line"/>
       <point x="140" y="420" type="line"/>
     </contour>
     <contour>

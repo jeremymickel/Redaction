@@ -4,6 +4,6 @@
   <anchor x="0.0" y="500.0" name="_top"/>
   <anchor x="0.0" y="760" name="top"/>
   <outline>
-    <component base="uni0300" xScale="-1" xOffset="-10.0"/>
+    <component base="uni0300" xScale="-1"/>
   </outline>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="itilde" format="2">
   <advance width="280"/>
   <unicode hex="0129"/>
-  <anchor x="221.0" y="690" name="top"/>
+  <anchor x="220" y="690" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0303" xOffset="221.0"/>
+    <component base="uni0303" xOffset="220"/>
   </outline>
 </glyph>

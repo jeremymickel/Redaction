@@ -5,6 +5,6 @@
   <guideline x="104" y="669" angle="90" identifier="zk7nSSZ5WY"/>
   <guideline x="396" y="657" angle="90" identifier="MKNGttsWxP"/>
   <outline>
-    <component base="uni0308" xOffset="340.0"/>
+    <component base="uni0308" xOffset="340"/>
   </outline>
 </glyph>

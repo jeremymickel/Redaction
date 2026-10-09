@@ -2,9 +2,9 @@
 <glyph name="Obreve" format="2">
   <advance width="730"/>
   <unicode hex="014E"/>
-  <anchor x="361.0" y="930.0" name="top"/>
+  <anchor x="360" y="930.0" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="uni0306" xOffset="361.0" yOffset="230.0"/>
+    <component base="uni0306" xOffset="360" yOffset="230.0"/>
   </outline>
 </glyph>

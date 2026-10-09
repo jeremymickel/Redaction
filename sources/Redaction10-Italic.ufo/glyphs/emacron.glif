@@ -2,9 +2,9 @@
 <glyph name="emacron" format="2">
   <advance width="420"/>
   <unicode hex="0113"/>
-  <anchor x="293.0" y="650" name="top"/>
+  <anchor x="290" y="650" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni0304" xOffset="293.0"/>
+    <component base="uni0304" xOffset="290"/>
   </outline>
 </glyph>

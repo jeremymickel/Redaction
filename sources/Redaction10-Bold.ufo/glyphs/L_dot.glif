@@ -2,9 +2,9 @@
 <glyph name="Ldot" format="2">
   <advance width="687"/>
   <unicode hex="013F"/>
-  <anchor x="540" y="526" name="top"/>
+  <anchor x="540" y="530" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="uni0307" xOffset="540" yOffset="-194"/>
+    <component base="uni0307" xOffset="540" yOffset="-190"/>
   </outline>
 </glyph>

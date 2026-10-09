@@ -2,9 +2,9 @@
 <glyph name="Ecaron" format="2">
   <advance width="650"/>
   <unicode hex="011A"/>
-  <anchor x="493.0" y="923.0" name="top"/>
+  <anchor x="490" y="920" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="uni030C" xOffset="493.0" yOffset="233.0"/>
+    <component base="uni030C" xOffset="490" yOffset="230"/>
   </outline>
 </glyph>

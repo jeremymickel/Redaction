@@ -2,9 +2,9 @@
 <glyph name="Zacute" format="2">
   <advance width="680"/>
   <unicode hex="0179"/>
-  <anchor x="353.0" y="957.0" name="top"/>
+  <anchor x="350" y="960" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="uni0301" xOffset="353.0" yOffset="207.0"/>
+    <component base="uni0301" xOffset="350" yOffset="210"/>
   </outline>
 </glyph>

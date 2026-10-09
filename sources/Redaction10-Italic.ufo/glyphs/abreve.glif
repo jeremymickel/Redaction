@@ -2,9 +2,9 @@
 <glyph name="abreve" format="2">
   <advance width="540"/>
   <unicode hex="0103"/>
-  <anchor x="333.0" y="690" name="top"/>
+  <anchor x="330" y="690" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="uni0306" xOffset="333.0"/>
+    <component base="uni0306" xOffset="330"/>
   </outline>
 </glyph>

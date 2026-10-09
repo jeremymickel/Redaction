@@ -2,7 +2,7 @@
 <glyph name="Ucaron" format="2">
   <advance width="800"/>
   <unicode hex="01D3"/>
-  <anchor x="443.0" y="957.0" name="top"/>
+  <anchor x="440" y="960" name="top"/>
   <outline>
     <component base="U"/>
     <component base="uni030C" xOffset="440" yOffset="210"/>

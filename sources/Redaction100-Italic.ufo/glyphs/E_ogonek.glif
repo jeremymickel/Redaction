@@ -27,16 +27,16 @@
       <point x="100" y="100" type="line"/>
     </contour>
     <contour>
-      <point x="600" y="-198" type="line"/>
-      <point x="600" y="-98" type="line"/>
-      <point x="500" y="-98" type="line"/>
+      <point x="600" y="-200" type="line"/>
+      <point x="600" y="-100" type="line"/>
+      <point x="500" y="-100" type="line"/>
       <point x="500" y="100" type="line"/>
       <point x="600" y="100" type="line"/>
       <point x="600" y="200" type="line"/>
       <point x="500" y="200" type="line"/>
       <point x="500" y="100" type="line"/>
       <point x="400" y="100" type="line"/>
-      <point x="400" y="-198" type="line"/>
+      <point x="400" y="-200" type="line"/>
     </contour>
   </outline>
 </glyph>

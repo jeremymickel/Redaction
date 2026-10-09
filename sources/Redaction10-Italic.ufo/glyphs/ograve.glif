@@ -2,9 +2,9 @@
 <glyph name="ograve" format="2">
   <advance width="500"/>
   <unicode hex="00F2"/>
-  <anchor x="299.0" y="720" name="top"/>
+  <anchor x="300" y="720" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="uni0300" xOffset="299.0"/>
+    <component base="uni0300" xOffset="300"/>
   </outline>
 </glyph>

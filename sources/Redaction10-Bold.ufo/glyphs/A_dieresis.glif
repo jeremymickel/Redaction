@@ -2,9 +2,9 @@
 <glyph name="Adieresis" format="2">
   <advance width="760"/>
   <unicode hex="00C4"/>
-  <anchor x="379" y="927" name="top"/>
+  <anchor x="380" y="930" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="uni0308" xOffset="379" yOffset="207"/>
+    <component base="uni0308" xOffset="380" yOffset="210"/>
   </outline>
 </glyph>

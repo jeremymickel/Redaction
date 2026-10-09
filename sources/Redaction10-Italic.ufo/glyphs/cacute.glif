@@ -2,9 +2,9 @@
 <glyph name="cacute" format="2">
   <advance width="410"/>
   <unicode hex="0107"/>
-  <anchor x="296.0" y="720" name="top"/>
+  <anchor x="300" y="720" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="uni0301" xOffset="296.0"/>
+    <component base="uni0301" xOffset="300"/>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
   <advance width="280"/>
-  <anchor x="231.00000000000415" y="720.0" name="top"/>
+  <anchor x="210" y="700" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0307" xOffset="231.00000000000415" yOffset="20.0"/>
+    <component base="uni0307" xOffset="210"/>
   </outline>
 </glyph>

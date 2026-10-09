@@ -23,18 +23,18 @@
       <point x="250" y="50" type="line"/>
       <point x="300" y="50" type="line"/>
       <point x="300" y="0" type="line"/>
-      <point x="362" y="0" type="line"/>
-      <point x="362" y="-50" type="line"/>
-      <point x="312" y="-50" type="line"/>
-      <point x="312" y="-100" type="line"/>
-      <point x="262" y="-100" type="line"/>
-      <point x="262" y="-200" type="line"/>
-      <point x="412" y="-200" type="line"/>
-      <point x="412" y="-150" type="line"/>
-      <point x="362" y="-150" type="line"/>
-      <point x="362" y="-50" type="line"/>
-      <point x="412" y="-50" type="line"/>
-      <point x="412" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="-50" type="line"/>
+      <point x="300" y="-50" type="line"/>
+      <point x="300" y="-100" type="line"/>
+      <point x="250" y="-100" type="line"/>
+      <point x="250" y="-200" type="line"/>
+      <point x="400" y="-200" type="line"/>
+      <point x="400" y="-150" type="line"/>
+      <point x="350" y="-150" type="line"/>
+      <point x="350" y="-50" type="line"/>
+      <point x="400" y="-50" type="line"/>
+      <point x="400" y="0" type="line"/>
       <point x="450" y="0" type="line"/>
       <point x="450" y="50" type="line"/>
       <point x="400" y="50" type="line"/>

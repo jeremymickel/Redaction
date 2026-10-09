@@ -2,9 +2,9 @@
 <glyph name="gbreve" format="2">
   <advance width="470"/>
   <unicode hex="011F"/>
-  <anchor x="278.0" y="690" name="top"/>
+  <anchor x="280" y="690" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="uni0306" xOffset="278.0"/>
+    <component base="uni0306" xOffset="280"/>
   </outline>
 </glyph>
